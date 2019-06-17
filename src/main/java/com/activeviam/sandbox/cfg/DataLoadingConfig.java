@@ -99,13 +99,16 @@ public class DataLoadingConfig {
     	riskConfig.setSeparator(DataGenerator.CSV_SEPARATOR);
     	riskConfig.setNumberSkippedLines(1);
     	
+    	
+    	String baseDirectory = env.getProperty("baseDirectory", "data");
+    	
     	FileSystemCSVTopicFactory topicFactory = new FileSystemCSVTopicFactory(false);
     	source.addTopic(topicFactory.createDirectoryTopic(
-    			"Trades", "./data", "glob:*trades*.csv", tradeConfig));
+    			"Trades", baseDirectory, "glob:*trades*.csv", tradeConfig));
     	source.addTopic(topicFactory.createDirectoryTopic(
-    			"Products", "./data", "glob:*products*.csv", productConfig));
+    			"Products", baseDirectory, "glob:*products*.csv", productConfig));
     	source.addTopic(topicFactory.createDirectoryTopic(
-    			"Risks", "./data", "glob:*risks*.csv", riskConfig));
+    			"Risks", baseDirectory, "glob:*risks*.csv", riskConfig));
 
     	CSVMessageChannelFactory<Path> factory = new CSVMessageChannelFactory<Path>(source, datastore);
     	

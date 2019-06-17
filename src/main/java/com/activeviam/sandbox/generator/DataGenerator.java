@@ -33,7 +33,7 @@ public class DataGenerator {
 	public static void main(String[] args) throws IOException {
 		
 		Properties prop = new Properties();
-		prop.load(DataGenerator.class.getClassLoader().getResourceAsStream("sandbox.properties"));
+		prop.load(DataGenerator.class.getClassLoader().getResourceAsStream("application.properties"));
 		
 		int tradeCount = Integer.parseInt((String) prop.getOrDefault("tradeSource.tradeCount", "1000"));
 		int productCount = Integer.parseInt((String) prop.getOrDefault("tradeSource.productCount", "100"));

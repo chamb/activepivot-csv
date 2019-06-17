@@ -12,14 +12,14 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.DependsOn;
 import org.springframework.context.annotation.Import;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 import com.activeviam.copper.Registrations;
 import com.activeviam.sandbox.cfg.datastore.DatastoreDescriptionConfig;
-import com.activeviam.sandbox.cfg.pivot.SandboxManagerConfig;
-import com.activeviam.sandbox.cfg.security.SandboxCorsFilterConfig;
+import com.activeviam.sandbox.cfg.pivot.ActivePivotManagerConfig;
+import com.activeviam.sandbox.cfg.security.CorsFilterConfig;
 import com.activeviam.sandbox.cfg.security.SecurityConfig;
 import com.qfs.server.cfg.IDatastoreConfig;
-import com.qfs.server.cfg.i18n.impl.LocalI18nConfig;
 import com.qfs.server.cfg.impl.ActivePivotConfig;
 import com.qfs.server.cfg.impl.ActivePivotServicesConfig;
 import com.qfs.server.cfg.impl.ActiveViamRestServicesConfig;
@@ -40,7 +40,8 @@ import com.quartetfs.fwk.monitoring.jmx.impl.JMXEnabler;
  * @author ActiveViam
  *
  */
-@PropertySource(value = { "classpath:sandbox.properties", "classpath:jwt.properties" })
+@PropertySource(value = { "classpath:jwt.properties" })
+@EnableWebMvc
 @Configuration
 @Import(value = {
 		ActivePivotConfig.class,
@@ -49,11 +50,11 @@ import com.quartetfs.fwk.monitoring.jmx.impl.JMXEnabler;
 		DatastoreDescriptionConfig.class,
 		FullAccessBranchPermissionsManagerConfig.class,
 		DataLoadingConfig.class,
-		SandboxManagerConfig.class,
-		LocalContentServiceConfig.class,
-		LocalI18nConfig.class,
+		ActivePivotManagerConfig.class,
+		ContentServiceConfig.class,
+		CustomI18nConfig.class,
 		SecurityConfig.class,
-		SandboxCorsFilterConfig.class,
+		CorsFilterConfig.class,
 		ActiveUIResourceServerConfig.class,
 
 		ActivePivotServicesConfig.class,
@@ -61,7 +62,7 @@ import com.quartetfs.fwk.monitoring.jmx.impl.JMXEnabler;
 		ActiveViamWebSocketServicesConfig.class,
 		JwtConfig.class
 })
-public class ActivePivotSandboxConfig {
+public class ActivePivotCSVConfig {
 
 	/** Before anything else we statically initialize the ActiveViam Registry. */
 	static {

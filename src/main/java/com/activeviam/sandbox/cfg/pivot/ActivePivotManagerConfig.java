@@ -34,7 +34,7 @@ import com.quartetfs.biz.pivot.definitions.ISelectionDescription;
  *
  */
 @Configuration
-public class SandboxManagerConfig implements IActivePivotManagerDescriptionConfig {
+public class ActivePivotManagerConfig implements IActivePivotManagerDescriptionConfig {
 	
 	/* ********** */
 	/* Formatters */
@@ -91,13 +91,13 @@ public class SandboxManagerConfig implements IActivePivotManagerDescriptionConfi
 			final INamedCubeDescriptionBuilder builder) {
 		
 		return builder
-				.withDimensions(SandboxManagerConfig::dimensions)
+				.withDimensions(ActivePivotManagerConfig::dimensions)
 				
 				//Suggestion : PostProcessor definitions can be added here
 				
 				.withDescriptionPostProcessor(
 						StartBuilding.copperCalculations()
-							.withDefinition(SandboxManagerConfig::coPPerCalculations)
+							.withDefinition(ActivePivotManagerConfig::coPPerCalculations)
 							.build()
 					)
 				;
@@ -147,7 +147,7 @@ public class SandboxManagerConfig implements IActivePivotManagerDescriptionConfi
 	 * @param context The context with which to build the calculations.
 	 */
 	public static void coPPerCalculations(BuildingContext context) {
-		SandboxManagerConfig.someAggregatedMeasures(context).publish();
+		ActivePivotManagerConfig.someAggregatedMeasures(context).publish();
 	}
 
 	

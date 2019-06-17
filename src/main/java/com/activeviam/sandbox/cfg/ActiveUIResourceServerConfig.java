@@ -1,5 +1,5 @@
 /*
- * (C) Quartet FS 2016
+ * (C) ActiveViam 2019
  * ALL RIGHTS RESERVED. This material is the CONFIDENTIAL and PROPRIETARY
  * property of Quartet Financial Systems Limited. Any unauthorized use,
  * reproduction or transfer of this material is strictly prohibited
@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Spring configuration for ActiveUI web application
  *
- * @author Quartet FS
+ * @author ActiveViam
  *
  */
 @Configuration
