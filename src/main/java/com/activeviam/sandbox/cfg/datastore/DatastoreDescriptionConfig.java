@@ -15,8 +15,10 @@ import static com.qfs.literal.ILiteralType.STRING;
 import java.util.Collection;
 import java.util.LinkedList;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.core.env.Environment;
 
 import com.qfs.desc.IDatastoreSchemaDescription;
 import com.qfs.desc.IReferenceDescription;
@@ -39,6 +41,8 @@ public class DatastoreDescriptionConfig implements IDatastoreDescriptionConfig {
 	/******************** Formatters ***************************/
 	public static final String DATE_FORMAT = "localDate[yyyy-MM-dd]";
 
+    @Autowired
+    protected Environment env;
 	
 	@Bean
 	public IStoreDescription products() {
@@ -62,6 +66,8 @@ public class DatastoreDescriptionConfig implements IDatastoreDescriptionConfig {
 	@Bean
 	public IStoreDescription trades() {
 		
+		Integer partitionCount = env.getProperty("partitionCount", Integer.class, 8);
+		
 		return new StoreDescriptionBuilder().withStoreName("Trades")
 				.withField("Id", LONG).asKeyField()
 				.withField("ProductId", INT)
@@ -73,12 +79,15 @@ public class DatastoreDescriptionConfig implements IDatastoreDescriptionConfig {
 				.withField("Date", LOCAL_DATE)
 				.withField("Status", STRING)
 				.withField("IsSimulated", STRING)
-				.withModuloPartitioning("Id", 8)
+				.withModuloPartitioning("Id", partitionCount)
 				.build();
 	}
 	
 	/** @return the description of the risk store */
 	public IStoreDescription risks() {
+
+		Integer partitionCount = env.getProperty("partitionCount", Integer.class, 8);
+		
 		return new StoreDescriptionBuilder().withStoreName("Risks")
 				.withField("TradeId", LONG).asKeyField()
 				.withField("Pnl", DOUBLE)
@@ -87,7 +96,7 @@ public class DatastoreDescriptionConfig implements IDatastoreDescriptionConfig {
 				.withField("Gamma", DOUBLE)
 				.withField("Vega", DOUBLE)
 				.withField("PnlVega", DOUBLE)
-				.withModuloPartitioning("TradeId", 8)
+				.withModuloPartitioning("TradeId", partitionCount)
 				.build();
 	}
 	
