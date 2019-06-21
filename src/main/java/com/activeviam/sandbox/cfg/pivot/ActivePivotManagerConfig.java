@@ -130,6 +130,9 @@ public class ActivePivotManagerConfig implements IActivePivotManagerDescriptionC
 					.withLevels("Desk", "Book")
 				.withSingleLevelHierarchy("Traders").withPropertyName("Trader")
 				.withSingleLevelHierarchy("Counterparties").withPropertyName("Counterparty")
+				.withHierarchy("Status")
+					.withLevel("Status")
+					.withLevel("IsSimulated")
 						
 			.withDimension("Date")
 				.withHierarchyOfSameName()
