@@ -6,4 +6,4 @@ The data generator executable is `com.activeviam.sandbox.generator.DataGenerator
 
 Once the three data csv files are generated in the `data` directory, the application can be started. ActivePivot will parse the CSV files and load them into an in-memory cube, ready for analysis. The application executable class is `com.activeviam.sandbox.ActivePivotCSVApplication`.
 
-The project is packaged with Spring Boot, when built with maven (`mvn clean install`) it produces a single executable jar file including all its dependencies. Simply run `java -jar activepivot-csv-1.0.0-SNAPSHOT`.
+The project is packaged with Spring Boot, when built with maven (`mvn clean install`) it produces a single executable jar file including all its dependencies. Simply run `java -jar activepivot-csv-1.0.0-SNAPSHOT.jar`.
