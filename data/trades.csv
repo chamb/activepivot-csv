@@ -1,0 +1,1001 @@
+Id|ProductId|ProductQtyMultiplier|Desk|Book|Trader|Counterparty|Date|Status|IsSimulated
+0|0|8181|DeskB|2|Will|Unilever ord|2028-11-12|MATCHED|LIVE
+1|1|7931|DeskA|2|Henry|Asahi Chemical Ind.|2025-09-11|DONE|LIVE
+2|2|3321|DeskA|6|Will|Sumitomo Trust and Banking|2027-08-17|MATCHED|LIVE
+3|3|9744|DeskB|4|Stan|Mitsubishi Estate|2021-07-09|MATCHED|LIVE
+4|4|8872|DeskA|9|Charles|Cosco Co.|2021-08-20|MATCHED|LIVE
+5|5|9423|DeskB|0|John|Rockwell Automation  Inc.|2028-04-17|SIMULATION|SIMULATION
+6|6|2625|DeskB|7|Henry|Formosa Plastics Corporation|2027-01-17|MATCHED|LIVE
+7|7|8659|DeskA|7|Sam|Sumitomo Electric|2021-03-19|DONE|LIVE
+8|8|9463|DeskA|0|Will|China Life Insurance Company Limited|2020-05-24|SIMULATION|SIMULATION
+9|9|7017|DeskB|9|Stan|HSBC Holdings plc|2025-12-31|MATCHED|LIVE
+10|10|4263|DeskB|1|Luke|Total System Services|2024-07-08|MATCHED|LIVE
+11|11|2819|DeskB|0|Lucy|Reed Elsevier PLC|2027-11-27|DONE|LIVE
+12|12|2399|DeskB|2|Eric|Mitsubishi Electric Co.|2027-09-15|MATCHED|LIVE
+13|13|3405|DeskB|0|Henry|Toyota Industries|2020-08-18|DONE|LIVE
+14|14|7577|DeskB|8|Lucy|BHP Billiton Limited|2027-03-14|DONE|LIVE
+15|15|5394|DeskB|4|Sam|Tyco International (New)|2020-05-31|MATCHED|LIVE
+16|16|1238|DeskB|5|John|Mitsui Mining and Sm.|2027-12-31|MATCHED|LIVE
+17|17|4336|DeskB|4|Sam|Mitsubishi Tokyo Financial Group|2019-07-11|DONE|LIVE
+18|18|1722|DeskA|8|Stan|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2020-08-23|DONE|LIVE
+19|19|6480|DeskA|0|John|Cathay Pacific Airways Ltd.|2023-06-18|SIMULATION|SIMULATION
+20|20|1119|DeskB|2|Luke|Unilever ord|2023-06-19|SIMULATION|SIMULATION
+21|21|4879|DeskB|3|Lucy|Asahi Chemical Ind.|2020-05-09|SIMULATION|SIMULATION
+22|22|4030|DeskB|8|John|Sumitomo Trust and Banking|2027-02-17|MATCHED|LIVE
+23|23|6465|DeskB|9|Sam|Mitsubishi Estate|2028-09-10|SIMULATION|SIMULATION
+24|24|624|DeskB|4|Stan|Cosco Co.|2029-02-15|SIMULATION|SIMULATION
+25|25|9873|DeskA|8|Henry|Rockwell Automation  Inc.|2029-02-22|DONE|LIVE
+26|26|8238|DeskB|7|John|Formosa Plastics Corporation|2029-03-04|SIMULATION|SIMULATION
+27|27|9505|DeskB|1|Lucy|Sumitomo Electric|2028-07-22|SIMULATION|SIMULATION
+28|28|1089|DeskA|8|Eric|China Life Insurance Company Limited|2025-06-03|SIMULATION|SIMULATION
+29|29|4831|DeskB|5|Eric|HSBC Holdings plc|2026-06-07|SIMULATION|SIMULATION
+30|30|2314|DeskA|5|Sam|Total System Services|2026-07-03|MATCHED|LIVE
+31|31|8097|DeskA|8|Lucy|Reed Elsevier PLC|2020-10-06|DONE|LIVE
+32|32|1188|DeskB|6|Luke|Mitsubishi Electric Co.|2029-02-13|SIMULATION|SIMULATION
+33|33|6820|DeskB|6|Sam|Toyota Industries|2027-06-09|SIMULATION|SIMULATION
+34|34|7252|DeskA|1|Luke|BHP Billiton Limited|2021-04-26|SIMULATION|SIMULATION
+35|35|6561|DeskA|1|Eric|Tyco International (New)|2028-02-12|SIMULATION|SIMULATION
+36|36|6448|DeskB|2|Lucy|Mitsui Mining and Sm.|2025-11-26|DONE|LIVE
+37|37|5450|DeskA|3|Henry|Mitsubishi Tokyo Financial Group|2025-05-30|MATCHED|LIVE
+38|38|5703|DeskA|9|Stan|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2021-10-21|DONE|LIVE
+39|39|5434|DeskB|7|John|Cathay Pacific Airways Ltd.|2020-03-30|DONE|LIVE
+40|40|4286|DeskB|6|Eric|Unilever ord|2022-05-19|SIMULATION|SIMULATION
+41|41|483|DeskA|8|Eric|Asahi Chemical Ind.|2028-02-10|SIMULATION|SIMULATION
+42|42|831|DeskA|6|Will|Sumitomo Trust and Banking|2024-06-01|DONE|LIVE
+43|43|2977|DeskA|4|Will|Mitsubishi Estate|2027-02-28|MATCHED|LIVE
+44|44|4671|DeskA|5|Eric|Cosco Co.|2021-07-16|DONE|LIVE
+45|45|2140|DeskA|4|Lucy|Rockwell Automation  Inc.|2021-08-11|SIMULATION|SIMULATION
+46|46|1757|DeskB|2|John|Formosa Plastics Corporation|2023-10-18|SIMULATION|SIMULATION
+47|47|617|DeskA|5|Luke|Sumitomo Electric|2028-01-09|MATCHED|LIVE
+48|48|366|DeskB|5|John|China Life Insurance Company Limited|2020-02-20|SIMULATION|SIMULATION
+49|49|7225|DeskB|0|Lucy|HSBC Holdings plc|2025-03-01|SIMULATION|SIMULATION
+50|50|7050|DeskB|5|John|Total System Services|2023-04-11|SIMULATION|SIMULATION
+51|51|4284|DeskB|5|John|Reed Elsevier PLC|2024-01-11|SIMULATION|SIMULATION
+52|52|5572|DeskB|0|Charles|Mitsubishi Electric Co.|2025-05-27|DONE|LIVE
+53|53|9510|DeskA|6|Sam|Toyota Industries|2026-01-06|SIMULATION|SIMULATION
+54|54|7039|DeskB|7|Luke|BHP Billiton Limited|2024-03-29|MATCHED|LIVE
+55|55|9619|DeskB|9|Stan|Tyco International (New)|2028-07-29|SIMULATION|SIMULATION
+56|56|3335|DeskA|2|Eric|Mitsui Mining and Sm.|2023-05-09|MATCHED|LIVE
+57|57|3121|DeskA|7|Luke|Mitsubishi Tokyo Financial Group|2022-07-15|MATCHED|LIVE
+58|58|6903|DeskB|6|Stan|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2021-02-23|DONE|LIVE
+59|59|3565|DeskB|5|Charles|Cathay Pacific Airways Ltd.|2022-12-19|DONE|LIVE
+60|60|9865|DeskA|4|Lucy|Unilever ord|2029-05-11|SIMULATION|SIMULATION
+61|61|8803|DeskA|8|Will|Asahi Chemical Ind.|2019-12-18|MATCHED|LIVE
+62|62|9697|DeskA|6|Eric|Sumitomo Trust and Banking|2026-07-11|MATCHED|LIVE
+63|63|7028|DeskB|7|Will|Mitsubishi Estate|2029-01-15|DONE|LIVE
+64|64|69|DeskA|0|Charles|Cosco Co.|2025-08-09|SIMULATION|SIMULATION
+65|65|8300|DeskA|7|Luke|Rockwell Automation  Inc.|2025-07-21|SIMULATION|SIMULATION
+66|66|2338|DeskB|3|Will|Formosa Plastics Corporation|2027-01-04|SIMULATION|SIMULATION
+67|67|8606|DeskB|7|Henry|Sumitomo Electric|2023-10-12|MATCHED|LIVE
+68|68|4579|DeskB|4|Henry|China Life Insurance Company Limited|2025-09-09|SIMULATION|SIMULATION
+69|69|8795|DeskA|1|Henry|HSBC Holdings plc|2026-08-31|MATCHED|LIVE
+70|70|7812|DeskA|7|Henry|Total System Services|2029-01-20|MATCHED|LIVE
+71|71|584|DeskB|3|Lucy|Reed Elsevier PLC|2021-10-02|MATCHED|LIVE
+72|72|3496|DeskB|5|Charles|Mitsubishi Electric Co.|2025-06-12|DONE|LIVE
+73|73|7980|DeskA|9|Charles|Toyota Industries|2022-07-04|DONE|LIVE
+74|74|1679|DeskA|8|Stan|BHP Billiton Limited|2021-05-16|DONE|LIVE
+75|75|4115|DeskB|3|Stan|Tyco International (New)|2024-02-11|DONE|LIVE
+76|76|2447|DeskB|4|Henry|Mitsui Mining and Sm.|2025-12-31|MATCHED|LIVE
+77|77|6545|DeskB|6|Eric|Mitsubishi Tokyo Financial Group|2026-09-27|DONE|LIVE
+78|78|172|DeskB|4|Henry|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2022-07-23|DONE|LIVE
+79|79|3082|DeskA|7|Charles|Cathay Pacific Airways Ltd.|2025-07-24|SIMULATION|SIMULATION
+80|80|7416|DeskB|8|John|Unilever ord|2027-09-05|DONE|LIVE
+81|81|517|DeskB|7|Luke|Asahi Chemical Ind.|2028-01-16|SIMULATION|SIMULATION
+82|82|8633|DeskB|4|Stan|Sumitomo Trust and Banking|2026-09-23|MATCHED|LIVE
+83|83|6730|DeskA|1|Will|Mitsubishi Estate|2021-11-03|SIMULATION|SIMULATION
+84|84|9367|DeskA|1|Charles|Cosco Co.|2020-01-20|DONE|LIVE
+85|85|8910|DeskB|5|Will|Rockwell Automation  Inc.|2026-05-08|SIMULATION|SIMULATION
+86|86|2565|DeskA|1|Will|Formosa Plastics Corporation|2022-10-21|MATCHED|LIVE
+87|87|8857|DeskB|6|John|Sumitomo Electric|2026-05-26|SIMULATION|SIMULATION
+88|88|9154|DeskA|1|Eric|China Life Insurance Company Limited|2022-12-13|MATCHED|LIVE
+89|89|5744|DeskA|4|Lucy|HSBC Holdings plc|2028-02-09|DONE|LIVE
+90|90|2158|DeskB|9|Henry|Total System Services|2027-05-23|MATCHED|LIVE
+91|91|9562|DeskA|1|Sam|Reed Elsevier PLC|2020-11-04|SIMULATION|SIMULATION
+92|92|3438|DeskA|3|Eric|Mitsubishi Electric Co.|2020-05-24|MATCHED|LIVE
+93|93|5348|DeskA|6|Lucy|Toyota Industries|2028-12-20|DONE|LIVE
+94|94|5630|DeskA|1|Stan|BHP Billiton Limited|2022-11-12|SIMULATION|SIMULATION
+95|95|481|DeskA|4|Will|Tyco International (New)|2020-02-13|SIMULATION|SIMULATION
+96|96|9393|DeskA|6|Stan|Mitsui Mining and Sm.|2027-11-23|DONE|LIVE
+97|97|3269|DeskB|2|Eric|Mitsubishi Tokyo Financial Group|2024-04-09|MATCHED|LIVE
+98|98|9362|DeskA|5|John|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2027-08-10|DONE|LIVE
+99|99|2870|DeskA|7|Henry|Cathay Pacific Airways Ltd.|2026-10-03|DONE|LIVE
+100|0|3253|DeskB|6|Henry|Unilever ord|2024-09-15|DONE|LIVE
+101|1|6722|DeskA|5|Will|Asahi Chemical Ind.|2021-10-19|MATCHED|LIVE
+102|2|1261|DeskA|1|Charles|Sumitomo Trust and Banking|2022-12-14|MATCHED|LIVE
+103|3|448|DeskB|1|Eric|Mitsubishi Estate|2022-05-30|MATCHED|LIVE
+104|4|592|DeskA|3|Henry|Cosco Co.|2019-12-12|MATCHED|LIVE
+105|5|460|DeskB|5|Will|Rockwell Automation  Inc.|2027-04-24|MATCHED|LIVE
+106|6|1735|DeskB|6|John|Formosa Plastics Corporation|2022-03-23|MATCHED|LIVE
+107|7|1167|DeskA|7|Charles|Sumitomo Electric|2027-10-18|MATCHED|LIVE
+108|8|6145|DeskA|7|Will|China Life Insurance Company Limited|2025-07-09|SIMULATION|SIMULATION
+109|9|5633|DeskB|6|Eric|HSBC Holdings plc|2027-08-19|DONE|LIVE
+110|10|9026|DeskB|9|Henry|Total System Services|2028-11-07|MATCHED|LIVE
+111|11|2498|DeskB|6|Luke|Reed Elsevier PLC|2026-09-08|MATCHED|LIVE
+112|12|3609|DeskB|1|Stan|Mitsubishi Electric Co.|2025-12-03|MATCHED|LIVE
+113|13|4350|DeskB|3|John|Toyota Industries|2029-03-14|DONE|LIVE
+114|14|5487|DeskB|3|Henry|BHP Billiton Limited|2028-11-28|DONE|LIVE
+115|15|2549|DeskB|5|Luke|Tyco International (New)|2026-05-12|MATCHED|LIVE
+116|16|3630|DeskB|3|Lucy|Mitsui Mining and Sm.|2023-05-19|MATCHED|LIVE
+117|17|3999|DeskB|3|John|Mitsubishi Tokyo Financial Group|2022-10-21|SIMULATION|SIMULATION
+118|18|6023|DeskA|8|Lucy|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2026-12-31|SIMULATION|SIMULATION
+119|19|9816|DeskA|2|Will|Cathay Pacific Airways Ltd.|2027-02-24|SIMULATION|SIMULATION
+120|20|9802|DeskB|7|Will|Unilever ord|2021-08-25|MATCHED|LIVE
+121|21|7519|DeskB|0|Luke|Asahi Chemical Ind.|2022-02-24|SIMULATION|SIMULATION
+122|22|5082|DeskB|3|Charles|Sumitomo Trust and Banking|2025-01-25|DONE|LIVE
+123|23|8967|DeskB|9|Stan|Mitsubishi Estate|2028-11-10|DONE|LIVE
+124|24|572|DeskB|8|Stan|Cosco Co.|2028-06-18|MATCHED|LIVE
+125|25|3844|DeskA|1|Eric|Rockwell Automation  Inc.|2022-08-31|MATCHED|LIVE
+126|26|4086|DeskB|0|Sam|Formosa Plastics Corporation|2020-10-09|SIMULATION|SIMULATION
+127|27|6189|DeskB|8|Charles|Sumitomo Electric|2021-07-19|MATCHED|LIVE
+128|28|109|DeskA|2|Lucy|China Life Insurance Company Limited|2028-07-02|MATCHED|LIVE
+129|29|6759|DeskB|1|Eric|HSBC Holdings plc|2022-11-13|SIMULATION|SIMULATION
+130|30|9837|DeskA|8|Charles|Total System Services|2025-08-09|MATCHED|LIVE
+131|31|1072|DeskA|6|Luke|Reed Elsevier PLC|2028-05-24|DONE|LIVE
+132|32|7067|DeskB|7|John|Mitsubishi Electric Co.|2028-03-01|DONE|LIVE
+133|33|6449|DeskB|9|Sam|Toyota Industries|2019-07-01|SIMULATION|SIMULATION
+134|34|4772|DeskA|0|Charles|BHP Billiton Limited|2028-06-20|DONE|LIVE
+135|35|168|DeskA|8|Henry|Tyco International (New)|2026-05-06|DONE|LIVE
+136|36|787|DeskB|0|Sam|Mitsui Mining and Sm.|2019-11-23|MATCHED|LIVE
+137|37|9234|DeskA|8|Henry|Mitsubishi Tokyo Financial Group|2020-11-17|DONE|LIVE
+138|38|1539|DeskA|9|Stan|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2027-09-24|DONE|LIVE
+139|39|9705|DeskB|3|Luke|Cathay Pacific Airways Ltd.|2019-11-01|MATCHED|LIVE
+140|40|4103|DeskB|9|Eric|Unilever ord|2026-08-20|SIMULATION|SIMULATION
+141|41|2045|DeskA|7|Henry|Asahi Chemical Ind.|2025-06-16|SIMULATION|SIMULATION
+142|42|5753|DeskA|1|Eric|Sumitomo Trust and Banking|2029-04-20|DONE|LIVE
+143|43|8380|DeskA|7|Stan|Mitsubishi Estate|2021-06-16|DONE|LIVE
+144|44|3435|DeskA|9|Stan|Cosco Co.|2024-06-05|SIMULATION|SIMULATION
+145|45|7513|DeskA|3|John|Rockwell Automation  Inc.|2028-08-17|SIMULATION|SIMULATION
+146|46|5821|DeskB|1|John|Formosa Plastics Corporation|2026-09-26|MATCHED|LIVE
+147|47|1628|DeskA|0|Stan|Sumitomo Electric|2020-05-13|SIMULATION|SIMULATION
+148|48|1323|DeskB|7|Eric|China Life Insurance Company Limited|2028-11-21|SIMULATION|SIMULATION
+149|49|9687|DeskB|8|Charles|HSBC Holdings plc|2020-05-08|SIMULATION|SIMULATION
+150|50|1988|DeskB|3|Lucy|Total System Services|2020-06-27|SIMULATION|SIMULATION
+151|51|9135|DeskB|3|Lucy|Reed Elsevier PLC|2021-10-25|MATCHED|LIVE
+152|52|5075|DeskB|2|Henry|Mitsubishi Electric Co.|2025-10-11|MATCHED|LIVE
+153|53|3140|DeskA|6|Sam|Toyota Industries|2022-05-19|MATCHED|LIVE
+154|54|3205|DeskB|5|Stan|BHP Billiton Limited|2024-02-04|DONE|LIVE
+155|55|9399|DeskB|6|Eric|Tyco International (New)|2022-06-24|DONE|LIVE
+156|56|7036|DeskA|9|Eric|Mitsui Mining and Sm.|2027-02-17|MATCHED|LIVE
+157|57|6657|DeskA|1|Charles|Mitsubishi Tokyo Financial Group|2025-12-29|SIMULATION|SIMULATION
+158|58|931|DeskB|1|Eric|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2022-07-14|SIMULATION|SIMULATION
+159|59|2694|DeskB|6|John|Cathay Pacific Airways Ltd.|2021-12-12|DONE|LIVE
+160|60|1278|DeskA|5|Henry|Unilever ord|2021-06-19|DONE|LIVE
+161|61|7466|DeskA|5|Charles|Asahi Chemical Ind.|2027-06-23|SIMULATION|SIMULATION
+162|62|8860|DeskA|0|Sam|Sumitomo Trust and Banking|2026-05-27|SIMULATION|SIMULATION
+163|63|976|DeskB|3|Luke|Mitsubishi Estate|2029-05-12|MATCHED|LIVE
+164|64|7252|DeskA|5|John|Cosco Co.|2024-01-28|SIMULATION|SIMULATION
+165|65|5684|DeskA|7|Eric|Rockwell Automation  Inc.|2020-07-15|SIMULATION|SIMULATION
+166|66|9308|DeskB|3|Eric|Formosa Plastics Corporation|2022-02-05|DONE|LIVE
+167|67|8114|DeskB|4|Will|Sumitomo Electric|2025-07-22|SIMULATION|SIMULATION
+168|68|6855|DeskB|4|Luke|China Life Insurance Company Limited|2024-07-18|SIMULATION|SIMULATION
+169|69|4779|DeskA|5|Eric|HSBC Holdings plc|2019-09-28|DONE|LIVE
+170|70|646|DeskA|1|Sam|Total System Services|2023-07-16|SIMULATION|SIMULATION
+171|71|9136|DeskB|7|Luke|Reed Elsevier PLC|2020-12-21|SIMULATION|SIMULATION
+172|72|8199|DeskB|7|Stan|Mitsubishi Electric Co.|2021-12-21|DONE|LIVE
+173|73|1187|DeskA|7|John|Toyota Industries|2023-06-06|SIMULATION|SIMULATION
+174|74|1351|DeskA|1|Stan|BHP Billiton Limited|2025-05-08|SIMULATION|SIMULATION
+175|75|810|DeskB|5|John|Tyco International (New)|2023-11-25|MATCHED|LIVE
+176|76|9496|DeskB|2|Charles|Mitsui Mining and Sm.|2028-10-01|DONE|LIVE
+177|77|3329|DeskB|9|Henry|Mitsubishi Tokyo Financial Group|2019-12-15|DONE|LIVE
+178|78|4322|DeskB|8|Lucy|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2029-03-16|MATCHED|LIVE
+179|79|6466|DeskA|7|Luke|Cathay Pacific Airways Ltd.|2024-01-08|DONE|LIVE
+180|80|6689|DeskB|9|Sam|Unilever ord|2021-08-20|MATCHED|LIVE
+181|81|8815|DeskB|8|Charles|Asahi Chemical Ind.|2024-10-28|DONE|LIVE
+182|82|4640|DeskB|6|Lucy|Sumitomo Trust and Banking|2024-02-06|MATCHED|LIVE
+183|83|9480|DeskA|4|Eric|Mitsubishi Estate|2023-01-14|DONE|LIVE
+184|84|1957|DeskA|5|Charles|Cosco Co.|2029-06-12|DONE|LIVE
+185|85|7883|DeskB|1|Sam|Rockwell Automation  Inc.|2025-07-08|DONE|LIVE
+186|86|5626|DeskA|0|Will|Formosa Plastics Corporation|2029-04-22|DONE|LIVE
+187|87|9561|DeskB|7|Will|Sumitomo Electric|2026-03-17|MATCHED|LIVE
+188|88|8081|DeskA|5|Lucy|China Life Insurance Company Limited|2025-02-12|SIMULATION|SIMULATION
+189|89|3267|DeskA|7|Will|HSBC Holdings plc|2019-07-04|DONE|LIVE
+190|90|7314|DeskB|5|Charles|Total System Services|2024-02-26|MATCHED|LIVE
+191|91|9796|DeskA|4|Stan|Reed Elsevier PLC|2024-12-29|SIMULATION|SIMULATION
+192|92|1562|DeskA|0|Henry|Mitsubishi Electric Co.|2020-11-01|SIMULATION|SIMULATION
+193|93|2537|DeskA|5|Stan|Toyota Industries|2023-11-28|MATCHED|LIVE
+194|94|1050|DeskA|7|Stan|BHP Billiton Limited|2023-05-28|SIMULATION|SIMULATION
+195|95|4375|DeskA|0|Luke|Tyco International (New)|2020-08-23|SIMULATION|SIMULATION
+196|96|3226|DeskA|3|Eric|Mitsui Mining and Sm.|2020-08-03|DONE|LIVE
+197|97|667|DeskB|3|Charles|Mitsubishi Tokyo Financial Group|2022-03-20|DONE|LIVE
+198|98|9165|DeskA|0|Stan|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2022-09-21|MATCHED|LIVE
+199|99|183|DeskA|4|Charles|Cathay Pacific Airways Ltd.|2025-07-09|MATCHED|LIVE
+200|0|3756|DeskB|4|Sam|Unilever ord|2021-01-21|SIMULATION|SIMULATION
+201|1|4315|DeskA|2|Luke|Asahi Chemical Ind.|2020-03-30|MATCHED|LIVE
+202|2|1121|DeskA|5|Charles|Sumitomo Trust and Banking|2027-03-12|DONE|LIVE
+203|3|3897|DeskB|2|Eric|Mitsubishi Estate|2024-05-23|MATCHED|LIVE
+204|4|8478|DeskA|0|Sam|Cosco Co.|2025-09-10|MATCHED|LIVE
+205|5|9901|DeskB|8|Will|Rockwell Automation  Inc.|2027-07-25|MATCHED|LIVE
+206|6|9281|DeskB|5|Lucy|Formosa Plastics Corporation|2027-09-18|SIMULATION|SIMULATION
+207|7|7308|DeskA|8|Stan|Sumitomo Electric|2023-02-28|SIMULATION|SIMULATION
+208|8|71|DeskA|9|Luke|China Life Insurance Company Limited|2023-02-23|SIMULATION|SIMULATION
+209|9|2343|DeskB|5|Luke|HSBC Holdings plc|2027-12-14|DONE|LIVE
+210|10|278|DeskB|5|Charles|Total System Services|2025-03-24|DONE|LIVE
+211|11|6813|DeskB|1|Lucy|Reed Elsevier PLC|2029-02-07|SIMULATION|SIMULATION
+212|12|7774|DeskB|6|Sam|Mitsubishi Electric Co.|2024-02-18|MATCHED|LIVE
+213|13|8447|DeskB|7|Sam|Toyota Industries|2019-09-03|SIMULATION|SIMULATION
+214|14|7923|DeskB|7|Charles|BHP Billiton Limited|2028-03-10|SIMULATION|SIMULATION
+215|15|9511|DeskB|5|Will|Tyco International (New)|2025-01-28|DONE|LIVE
+216|16|4956|DeskB|4|Sam|Mitsui Mining and Sm.|2020-09-25|DONE|LIVE
+217|17|3786|DeskB|3|Henry|Mitsubishi Tokyo Financial Group|2023-02-16|SIMULATION|SIMULATION
+218|18|8076|DeskA|5|Will|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2020-11-15|MATCHED|LIVE
+219|19|2791|DeskA|5|Luke|Cathay Pacific Airways Ltd.|2021-04-05|SIMULATION|SIMULATION
+220|20|350|DeskB|1|Lucy|Unilever ord|2021-12-15|SIMULATION|SIMULATION
+221|21|8313|DeskB|0|Will|Asahi Chemical Ind.|2025-11-07|MATCHED|LIVE
+222|22|4607|DeskB|3|Charles|Sumitomo Trust and Banking|2020-03-14|SIMULATION|SIMULATION
+223|23|6664|DeskB|6|Will|Mitsubishi Estate|2026-01-24|MATCHED|LIVE
+224|24|1534|DeskB|6|John|Cosco Co.|2026-10-28|MATCHED|LIVE
+225|25|6501|DeskA|1|Luke|Rockwell Automation  Inc.|2024-04-20|MATCHED|LIVE
+226|26|9092|DeskB|1|Stan|Formosa Plastics Corporation|2025-11-29|MATCHED|LIVE
+227|27|6495|DeskB|4|Lucy|Sumitomo Electric|2028-06-10|SIMULATION|SIMULATION
+228|28|5952|DeskA|5|Stan|China Life Insurance Company Limited|2025-09-09|MATCHED|LIVE
+229|29|3847|DeskB|0|Lucy|HSBC Holdings plc|2020-07-10|MATCHED|LIVE
+230|30|7908|DeskA|2|Luke|Total System Services|2028-07-01|SIMULATION|SIMULATION
+231|31|4022|DeskA|7|Will|Reed Elsevier PLC|2026-04-19|MATCHED|LIVE
+232|32|3067|DeskB|4|Stan|Mitsubishi Electric Co.|2028-04-12|SIMULATION|SIMULATION
+233|33|8016|DeskB|1|Luke|Toyota Industries|2027-07-11|DONE|LIVE
+234|34|4788|DeskA|3|Will|BHP Billiton Limited|2023-11-01|DONE|LIVE
+235|35|7110|DeskA|6|Lucy|Tyco International (New)|2025-07-13|DONE|LIVE
+236|36|3337|DeskB|7|Luke|Mitsui Mining and Sm.|2019-07-11|MATCHED|LIVE
+237|37|5433|DeskA|4|Stan|Mitsubishi Tokyo Financial Group|2021-05-24|MATCHED|LIVE
+238|38|3003|DeskA|9|Will|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2020-01-22|MATCHED|LIVE
+239|39|2076|DeskB|2|Eric|Cathay Pacific Airways Ltd.|2026-02-28|MATCHED|LIVE
+240|40|6981|DeskB|3|John|Unilever ord|2028-12-05|DONE|LIVE
+241|41|3798|DeskA|7|Charles|Asahi Chemical Ind.|2026-07-06|DONE|LIVE
+242|42|9962|DeskA|5|Will|Sumitomo Trust and Banking|2021-08-18|MATCHED|LIVE
+243|43|3528|DeskA|1|Eric|Mitsubishi Estate|2025-10-17|SIMULATION|SIMULATION
+244|44|4117|DeskA|0|Lucy|Cosco Co.|2027-09-16|MATCHED|LIVE
+245|45|899|DeskA|5|Sam|Rockwell Automation  Inc.|2025-05-19|MATCHED|LIVE
+246|46|2603|DeskB|6|Will|Formosa Plastics Corporation|2020-04-22|SIMULATION|SIMULATION
+247|47|7738|DeskA|0|Will|Sumitomo Electric|2026-11-23|DONE|LIVE
+248|48|7189|DeskB|0|Eric|China Life Insurance Company Limited|2025-01-23|MATCHED|LIVE
+249|49|3209|DeskB|0|Sam|HSBC Holdings plc|2021-10-03|MATCHED|LIVE
+250|50|4697|DeskB|3|Charles|Total System Services|2028-06-12|DONE|LIVE
+251|51|2320|DeskB|6|Eric|Reed Elsevier PLC|2024-08-31|DONE|LIVE
+252|52|8801|DeskB|0|Sam|Mitsubishi Electric Co.|2019-11-22|SIMULATION|SIMULATION
+253|53|3298|DeskA|5|Stan|Toyota Industries|2027-08-09|SIMULATION|SIMULATION
+254|54|3686|DeskB|7|Will|BHP Billiton Limited|2026-12-30|MATCHED|LIVE
+255|55|8685|DeskB|9|Sam|Tyco International (New)|2027-05-30|DONE|LIVE
+256|56|8256|DeskA|0|Stan|Mitsui Mining and Sm.|2024-06-23|MATCHED|LIVE
+257|57|9295|DeskA|3|John|Mitsubishi Tokyo Financial Group|2023-12-23|DONE|LIVE
+258|58|8015|DeskB|2|Luke|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2028-09-05|DONE|LIVE
+259|59|2687|DeskB|3|Charles|Cathay Pacific Airways Ltd.|2026-03-29|SIMULATION|SIMULATION
+260|60|9853|DeskA|0|Stan|Unilever ord|2025-11-10|MATCHED|LIVE
+261|61|2371|DeskA|0|John|Asahi Chemical Ind.|2020-11-21|DONE|LIVE
+262|62|160|DeskA|2|Luke|Sumitomo Trust and Banking|2026-05-10|SIMULATION|SIMULATION
+263|63|6619|DeskB|6|John|Mitsubishi Estate|2023-05-21|DONE|LIVE
+264|64|2019|DeskA|1|Lucy|Cosco Co.|2026-01-31|SIMULATION|SIMULATION
+265|65|7386|DeskA|1|Luke|Rockwell Automation  Inc.|2021-10-09|MATCHED|LIVE
+266|66|9191|DeskB|4|Will|Formosa Plastics Corporation|2029-04-27|DONE|LIVE
+267|67|3070|DeskB|5|Stan|Sumitomo Electric|2025-08-01|MATCHED|LIVE
+268|68|8887|DeskB|8|John|China Life Insurance Company Limited|2019-09-19|SIMULATION|SIMULATION
+269|69|3195|DeskA|3|John|HSBC Holdings plc|2022-03-17|SIMULATION|SIMULATION
+270|70|7445|DeskA|6|Eric|Total System Services|2028-11-27|DONE|LIVE
+271|71|3|DeskB|3|Sam|Reed Elsevier PLC|2024-09-11|MATCHED|LIVE
+272|72|7083|DeskB|2|Charles|Mitsubishi Electric Co.|2025-01-22|MATCHED|LIVE
+273|73|1279|DeskA|2|Stan|Toyota Industries|2025-05-09|SIMULATION|SIMULATION
+274|74|9740|DeskA|2|Sam|BHP Billiton Limited|2026-04-23|SIMULATION|SIMULATION
+275|75|3361|DeskB|4|Lucy|Tyco International (New)|2026-12-15|MATCHED|LIVE
+276|76|1100|DeskB|2|Will|Mitsui Mining and Sm.|2020-10-05|SIMULATION|SIMULATION
+277|77|768|DeskB|8|John|Mitsubishi Tokyo Financial Group|2021-05-25|DONE|LIVE
+278|78|8653|DeskB|0|John|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2021-06-06|MATCHED|LIVE
+279|79|2443|DeskA|0|Luke|Cathay Pacific Airways Ltd.|2020-06-02|DONE|LIVE
+280|80|4528|DeskB|7|Eric|Unilever ord|2029-01-12|DONE|LIVE
+281|81|6319|DeskB|6|Stan|Asahi Chemical Ind.|2021-07-07|MATCHED|LIVE
+282|82|8735|DeskB|8|Will|Sumitomo Trust and Banking|2026-03-22|DONE|LIVE
+283|83|3303|DeskA|3|Lucy|Mitsubishi Estate|2024-08-25|SIMULATION|SIMULATION
+284|84|5929|DeskA|6|Will|Cosco Co.|2023-05-05|MATCHED|LIVE
+285|85|5306|DeskB|5|Luke|Rockwell Automation  Inc.|2021-03-04|MATCHED|LIVE
+286|86|8515|DeskA|4|Henry|Formosa Plastics Corporation|2024-01-26|MATCHED|LIVE
+287|87|8352|DeskB|9|Sam|Sumitomo Electric|2027-05-14|MATCHED|LIVE
+288|88|1916|DeskA|4|John|China Life Insurance Company Limited|2028-01-04|DONE|LIVE
+289|89|190|DeskA|3|Stan|HSBC Holdings plc|2021-12-14|MATCHED|LIVE
+290|90|8441|DeskB|1|John|Total System Services|2023-01-12|SIMULATION|SIMULATION
+291|91|8469|DeskA|0|Luke|Reed Elsevier PLC|2025-02-22|DONE|LIVE
+292|92|9810|DeskA|6|Stan|Mitsubishi Electric Co.|2025-02-21|MATCHED|LIVE
+293|93|5182|DeskA|5|John|Toyota Industries|2023-11-06|SIMULATION|SIMULATION
+294|94|7177|DeskA|5|Will|BHP Billiton Limited|2025-09-29|MATCHED|LIVE
+295|95|1793|DeskA|6|Stan|Tyco International (New)|2028-05-10|SIMULATION|SIMULATION
+296|96|6014|DeskA|2|Luke|Mitsui Mining and Sm.|2021-08-24|MATCHED|LIVE
+297|97|254|DeskB|2|Charles|Mitsubishi Tokyo Financial Group|2023-06-08|SIMULATION|SIMULATION
+298|98|4749|DeskA|8|John|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2024-07-21|DONE|LIVE
+299|99|5066|DeskA|9|Will|Cathay Pacific Airways Ltd.|2021-06-18|DONE|LIVE
+300|0|2947|DeskB|3|Lucy|Unilever ord|2025-08-18|DONE|LIVE
+301|1|1423|DeskA|3|Sam|Asahi Chemical Ind.|2022-10-16|DONE|LIVE
+302|2|3188|DeskA|9|Eric|Sumitomo Trust and Banking|2022-09-05|MATCHED|LIVE
+303|3|272|DeskB|4|Eric|Mitsubishi Estate|2019-08-21|MATCHED|LIVE
+304|4|4544|DeskA|0|John|Cosco Co.|2024-03-05|SIMULATION|SIMULATION
+305|5|8636|DeskB|1|Stan|Rockwell Automation  Inc.|2022-10-15|MATCHED|LIVE
+306|6|836|DeskB|4|Lucy|Formosa Plastics Corporation|2028-01-08|DONE|LIVE
+307|7|8822|DeskA|2|Lucy|Sumitomo Electric|2026-02-01|MATCHED|LIVE
+308|8|5980|DeskA|2|Sam|China Life Insurance Company Limited|2020-04-17|DONE|LIVE
+309|9|5154|DeskB|8|Sam|HSBC Holdings plc|2020-06-16|DONE|LIVE
+310|10|5279|DeskB|9|Lucy|Total System Services|2024-02-12|SIMULATION|SIMULATION
+311|11|1908|DeskB|3|Lucy|Reed Elsevier PLC|2021-06-09|DONE|LIVE
+312|12|8972|DeskB|2|Stan|Mitsubishi Electric Co.|2024-02-23|SIMULATION|SIMULATION
+313|13|3908|DeskB|5|Eric|Toyota Industries|2020-09-01|DONE|LIVE
+314|14|7533|DeskB|0|Henry|BHP Billiton Limited|2028-02-23|SIMULATION|SIMULATION
+315|15|7159|DeskB|8|Luke|Tyco International (New)|2023-12-18|MATCHED|LIVE
+316|16|9430|DeskB|3|Henry|Mitsui Mining and Sm.|2023-02-20|SIMULATION|SIMULATION
+317|17|8031|DeskB|3|Stan|Mitsubishi Tokyo Financial Group|2025-08-10|MATCHED|LIVE
+318|18|6420|DeskA|8|Will|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2021-11-24|SIMULATION|SIMULATION
+319|19|2650|DeskA|3|Lucy|Cathay Pacific Airways Ltd.|2021-06-01|MATCHED|LIVE
+320|20|5055|DeskB|8|Lucy|Unilever ord|2026-09-14|MATCHED|LIVE
+321|21|4956|DeskB|6|Lucy|Asahi Chemical Ind.|2028-03-16|MATCHED|LIVE
+322|22|2977|DeskB|9|Stan|Sumitomo Trust and Banking|2019-12-26|SIMULATION|SIMULATION
+323|23|100|DeskB|9|Luke|Mitsubishi Estate|2023-02-27|MATCHED|LIVE
+324|24|4518|DeskB|2|Eric|Cosco Co.|2024-09-16|DONE|LIVE
+325|25|4499|DeskA|4|Eric|Rockwell Automation  Inc.|2028-08-29|DONE|LIVE
+326|26|832|DeskB|4|Stan|Formosa Plastics Corporation|2021-02-19|MATCHED|LIVE
+327|27|7322|DeskB|8|Sam|Sumitomo Electric|2024-04-10|DONE|LIVE
+328|28|1160|DeskA|8|Eric|China Life Insurance Company Limited|2022-01-14|MATCHED|LIVE
+329|29|1292|DeskB|8|John|HSBC Holdings plc|2028-09-07|SIMULATION|SIMULATION
+330|30|6391|DeskA|3|Henry|Total System Services|2021-07-18|MATCHED|LIVE
+331|31|8769|DeskA|6|Lucy|Reed Elsevier PLC|2024-03-13|MATCHED|LIVE
+332|32|5327|DeskB|8|Stan|Mitsubishi Electric Co.|2027-08-15|MATCHED|LIVE
+333|33|3099|DeskB|0|Henry|Toyota Industries|2026-04-30|MATCHED|LIVE
+334|34|5166|DeskA|6|Will|BHP Billiton Limited|2022-07-24|MATCHED|LIVE
+335|35|1247|DeskA|5|Charles|Tyco International (New)|2020-03-02|MATCHED|LIVE
+336|36|710|DeskB|7|John|Mitsui Mining and Sm.|2022-11-22|SIMULATION|SIMULATION
+337|37|2782|DeskA|6|Stan|Mitsubishi Tokyo Financial Group|2025-11-11|SIMULATION|SIMULATION
+338|38|6716|DeskA|7|Will|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2023-01-07|SIMULATION|SIMULATION
+339|39|7558|DeskB|9|Lucy|Cathay Pacific Airways Ltd.|2029-02-01|SIMULATION|SIMULATION
+340|40|9541|DeskB|6|Will|Unilever ord|2025-12-07|DONE|LIVE
+341|41|6662|DeskA|3|Lucy|Asahi Chemical Ind.|2026-07-09|MATCHED|LIVE
+342|42|9887|DeskA|4|Lucy|Sumitomo Trust and Banking|2019-11-16|MATCHED|LIVE
+343|43|1973|DeskA|2|Charles|Mitsubishi Estate|2027-06-30|SIMULATION|SIMULATION
+344|44|540|DeskA|2|Will|Cosco Co.|2024-01-06|SIMULATION|SIMULATION
+345|45|1036|DeskA|6|Luke|Rockwell Automation  Inc.|2029-06-03|SIMULATION|SIMULATION
+346|46|6698|DeskB|4|Lucy|Formosa Plastics Corporation|2021-10-14|SIMULATION|SIMULATION
+347|47|1321|DeskA|1|Stan|Sumitomo Electric|2023-08-25|MATCHED|LIVE
+348|48|2013|DeskB|3|Henry|China Life Insurance Company Limited|2022-05-06|DONE|LIVE
+349|49|7606|DeskB|0|Sam|HSBC Holdings plc|2020-05-03|SIMULATION|SIMULATION
+350|50|7854|DeskB|6|Will|Total System Services|2020-08-11|MATCHED|LIVE
+351|51|4915|DeskB|0|John|Reed Elsevier PLC|2026-02-26|MATCHED|LIVE
+352|52|7535|DeskB|2|Charles|Mitsubishi Electric Co.|2023-12-31|DONE|LIVE
+353|53|6513|DeskA|9|Luke|Toyota Industries|2024-09-27|DONE|LIVE
+354|54|3127|DeskB|0|Will|BHP Billiton Limited|2027-10-21|MATCHED|LIVE
+355|55|6697|DeskB|0|Henry|Tyco International (New)|2028-01-20|SIMULATION|SIMULATION
+356|56|2300|DeskA|5|Will|Mitsui Mining and Sm.|2023-09-01|SIMULATION|SIMULATION
+357|57|5766|DeskA|6|Eric|Mitsubishi Tokyo Financial Group|2020-10-20|MATCHED|LIVE
+358|58|2404|DeskB|3|Eric|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2022-02-20|DONE|LIVE
+359|59|6618|DeskB|1|Sam|Cathay Pacific Airways Ltd.|2026-11-13|SIMULATION|SIMULATION
+360|60|6976|DeskA|5|Eric|Unilever ord|2028-05-20|DONE|LIVE
+361|61|2161|DeskA|7|Luke|Asahi Chemical Ind.|2026-08-24|MATCHED|LIVE
+362|62|559|DeskA|8|Sam|Sumitomo Trust and Banking|2021-01-15|SIMULATION|SIMULATION
+363|63|3470|DeskB|6|Henry|Mitsubishi Estate|2019-11-05|DONE|LIVE
+364|64|5474|DeskA|9|Sam|Cosco Co.|2028-07-02|MATCHED|LIVE
+365|65|7421|DeskA|3|Henry|Rockwell Automation  Inc.|2028-08-09|SIMULATION|SIMULATION
+366|66|3424|DeskB|1|Will|Formosa Plastics Corporation|2026-02-08|SIMULATION|SIMULATION
+367|67|9269|DeskB|2|Sam|Sumitomo Electric|2022-06-21|MATCHED|LIVE
+368|68|3245|DeskB|2|Eric|China Life Insurance Company Limited|2019-07-11|MATCHED|LIVE
+369|69|5873|DeskA|8|Lucy|HSBC Holdings plc|2028-03-22|SIMULATION|SIMULATION
+370|70|7451|DeskA|5|Luke|Total System Services|2022-02-01|SIMULATION|SIMULATION
+371|71|9775|DeskB|6|Eric|Reed Elsevier PLC|2025-07-08|SIMULATION|SIMULATION
+372|72|1707|DeskB|8|Charles|Mitsubishi Electric Co.|2020-02-27|DONE|LIVE
+373|73|4519|DeskA|0|Lucy|Toyota Industries|2026-11-22|MATCHED|LIVE
+374|74|9234|DeskA|8|Sam|BHP Billiton Limited|2020-09-10|SIMULATION|SIMULATION
+375|75|8765|DeskB|1|Lucy|Tyco International (New)|2021-07-27|SIMULATION|SIMULATION
+376|76|1007|DeskB|1|Henry|Mitsui Mining and Sm.|2019-10-24|MATCHED|LIVE
+377|77|6724|DeskB|8|Will|Mitsubishi Tokyo Financial Group|2022-08-07|SIMULATION|SIMULATION
+378|78|3019|DeskB|8|Charles|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2022-03-01|SIMULATION|SIMULATION
+379|79|1821|DeskA|0|John|Cathay Pacific Airways Ltd.|2025-07-12|DONE|LIVE
+380|80|6999|DeskB|3|Sam|Unilever ord|2029-01-19|SIMULATION|SIMULATION
+381|81|9987|DeskB|0|Charles|Asahi Chemical Ind.|2025-12-12|DONE|LIVE
+382|82|2852|DeskB|6|Lucy|Sumitomo Trust and Banking|2025-02-23|SIMULATION|SIMULATION
+383|83|8857|DeskA|5|Charles|Mitsubishi Estate|2023-09-29|SIMULATION|SIMULATION
+384|84|4417|DeskA|1|Charles|Cosco Co.|2027-05-15|DONE|LIVE
+385|85|6919|DeskB|2|Henry|Rockwell Automation  Inc.|2021-06-12|DONE|LIVE
+386|86|3794|DeskA|8|Sam|Formosa Plastics Corporation|2020-11-23|SIMULATION|SIMULATION
+387|87|8734|DeskB|4|Eric|Sumitomo Electric|2023-05-23|DONE|LIVE
+388|88|8075|DeskA|2|Will|China Life Insurance Company Limited|2021-02-05|MATCHED|LIVE
+389|89|2552|DeskA|9|Luke|HSBC Holdings plc|2026-05-23|MATCHED|LIVE
+390|90|2825|DeskB|0|Will|Total System Services|2022-09-01|MATCHED|LIVE
+391|91|9147|DeskA|7|Eric|Reed Elsevier PLC|2027-10-19|DONE|LIVE
+392|92|6287|DeskA|8|Stan|Mitsubishi Electric Co.|2027-10-02|DONE|LIVE
+393|93|360|DeskA|8|John|Toyota Industries|2025-02-22|SIMULATION|SIMULATION
+394|94|4627|DeskA|3|Luke|BHP Billiton Limited|2021-09-13|SIMULATION|SIMULATION
+395|95|4081|DeskA|9|Stan|Tyco International (New)|2025-10-04|DONE|LIVE
+396|96|8849|DeskA|7|Stan|Mitsui Mining and Sm.|2021-03-05|SIMULATION|SIMULATION
+397|97|6158|DeskB|0|Eric|Mitsubishi Tokyo Financial Group|2028-08-11|SIMULATION|SIMULATION
+398|98|1015|DeskA|2|Eric|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2022-05-17|MATCHED|LIVE
+399|99|8140|DeskA|9|Will|Cathay Pacific Airways Ltd.|2022-10-22|MATCHED|LIVE
+400|0|4448|DeskB|3|John|Unilever ord|2019-09-02|DONE|LIVE
+401|1|3593|DeskA|7|Luke|Asahi Chemical Ind.|2020-03-26|SIMULATION|SIMULATION
+402|2|9393|DeskA|9|Luke|Sumitomo Trust and Banking|2027-09-24|DONE|LIVE
+403|3|7136|DeskB|0|Sam|Mitsubishi Estate|2021-12-07|SIMULATION|SIMULATION
+404|4|6906|DeskA|4|John|Cosco Co.|2024-09-21|SIMULATION|SIMULATION
+405|5|4764|DeskB|1|Stan|Rockwell Automation  Inc.|2020-12-31|MATCHED|LIVE
+406|6|4569|DeskB|9|Luke|Formosa Plastics Corporation|2028-10-27|SIMULATION|SIMULATION
+407|7|9634|DeskA|9|Luke|Sumitomo Electric|2028-05-23|SIMULATION|SIMULATION
+408|8|7224|DeskA|5|Henry|China Life Insurance Company Limited|2021-08-19|SIMULATION|SIMULATION
+409|9|704|DeskB|6|Charles|HSBC Holdings plc|2027-03-13|DONE|LIVE
+410|10|7797|DeskB|2|Lucy|Total System Services|2028-11-15|MATCHED|LIVE
+411|11|2290|DeskB|8|Will|Reed Elsevier PLC|2028-03-20|DONE|LIVE
+412|12|3710|DeskB|2|Will|Mitsubishi Electric Co.|2023-03-23|DONE|LIVE
+413|13|188|DeskB|3|John|Toyota Industries|2027-04-26|SIMULATION|SIMULATION
+414|14|9996|DeskB|5|Lucy|BHP Billiton Limited|2023-06-25|DONE|LIVE
+415|15|9418|DeskB|5|Henry|Tyco International (New)|2023-05-03|DONE|LIVE
+416|16|6274|DeskB|8|Luke|Mitsui Mining and Sm.|2029-03-13|SIMULATION|SIMULATION
+417|17|6331|DeskB|0|Henry|Mitsubishi Tokyo Financial Group|2028-09-04|MATCHED|LIVE
+418|18|1958|DeskA|3|Luke|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2025-06-04|SIMULATION|SIMULATION
+419|19|4993|DeskA|9|John|Cathay Pacific Airways Ltd.|2027-06-09|DONE|LIVE
+420|20|4876|DeskB|8|John|Unilever ord|2019-08-26|DONE|LIVE
+421|21|8689|DeskB|4|Sam|Asahi Chemical Ind.|2022-11-01|SIMULATION|SIMULATION
+422|22|1220|DeskB|1|John|Sumitomo Trust and Banking|2021-06-17|DONE|LIVE
+423|23|4015|DeskB|0|Henry|Mitsubishi Estate|2021-11-09|DONE|LIVE
+424|24|5359|DeskB|3|Stan|Cosco Co.|2028-07-29|MATCHED|LIVE
+425|25|6987|DeskA|0|Luke|Rockwell Automation  Inc.|2028-03-06|DONE|LIVE
+426|26|1142|DeskB|3|Henry|Formosa Plastics Corporation|2020-09-02|MATCHED|LIVE
+427|27|8747|DeskB|1|Stan|Sumitomo Electric|2028-11-01|DONE|LIVE
+428|28|8071|DeskA|9|Stan|China Life Insurance Company Limited|2028-07-27|MATCHED|LIVE
+429|29|231|DeskB|1|Luke|HSBC Holdings plc|2020-04-13|DONE|LIVE
+430|30|3466|DeskA|0|Lucy|Total System Services|2020-04-06|DONE|LIVE
+431|31|5330|DeskA|5|Luke|Reed Elsevier PLC|2029-02-08|MATCHED|LIVE
+432|32|4761|DeskB|4|Eric|Mitsubishi Electric Co.|2026-02-18|DONE|LIVE
+433|33|2182|DeskB|8|Charles|Toyota Industries|2028-08-22|MATCHED|LIVE
+434|34|1510|DeskA|9|Sam|BHP Billiton Limited|2023-07-26|SIMULATION|SIMULATION
+435|35|7440|DeskA|4|Eric|Tyco International (New)|2027-07-30|DONE|LIVE
+436|36|8631|DeskB|4|Stan|Mitsui Mining and Sm.|2025-06-04|SIMULATION|SIMULATION
+437|37|7949|DeskA|0|Lucy|Mitsubishi Tokyo Financial Group|2023-10-30|MATCHED|LIVE
+438|38|1221|DeskA|0|Luke|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2020-07-04|SIMULATION|SIMULATION
+439|39|4440|DeskB|9|Henry|Cathay Pacific Airways Ltd.|2021-12-14|DONE|LIVE
+440|40|8609|DeskB|6|Henry|Unilever ord|2025-01-25|SIMULATION|SIMULATION
+441|41|9351|DeskA|6|Eric|Asahi Chemical Ind.|2028-10-27|MATCHED|LIVE
+442|42|8807|DeskA|1|Luke|Sumitomo Trust and Banking|2019-12-28|MATCHED|LIVE
+443|43|3545|DeskA|0|Stan|Mitsubishi Estate|2022-04-30|MATCHED|LIVE
+444|44|8704|DeskA|6|Will|Cosco Co.|2026-11-17|SIMULATION|SIMULATION
+445|45|7852|DeskA|8|Luke|Rockwell Automation  Inc.|2019-07-26|MATCHED|LIVE
+446|46|5941|DeskB|3|Luke|Formosa Plastics Corporation|2024-07-09|SIMULATION|SIMULATION
+447|47|1331|DeskA|2|Stan|Sumitomo Electric|2022-11-14|SIMULATION|SIMULATION
+448|48|3304|DeskB|5|Eric|China Life Insurance Company Limited|2027-10-13|MATCHED|LIVE
+449|49|5141|DeskB|0|Luke|HSBC Holdings plc|2025-11-23|DONE|LIVE
+450|50|5924|DeskB|0|Luke|Total System Services|2024-06-06|MATCHED|LIVE
+451|51|7451|DeskB|3|Stan|Reed Elsevier PLC|2022-11-21|SIMULATION|SIMULATION
+452|52|6185|DeskB|9|Eric|Mitsubishi Electric Co.|2027-02-11|MATCHED|LIVE
+453|53|4381|DeskA|7|Stan|Toyota Industries|2025-01-25|DONE|LIVE
+454|54|6172|DeskB|7|Eric|BHP Billiton Limited|2022-01-30|MATCHED|LIVE
+455|55|7897|DeskB|0|Charles|Tyco International (New)|2027-10-10|MATCHED|LIVE
+456|56|3814|DeskA|4|Lucy|Mitsui Mining and Sm.|2028-09-12|SIMULATION|SIMULATION
+457|57|722|DeskA|5|Sam|Mitsubishi Tokyo Financial Group|2020-10-30|DONE|LIVE
+458|58|5333|DeskB|6|Will|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2020-07-23|DONE|LIVE
+459|59|1307|DeskB|8|Stan|Cathay Pacific Airways Ltd.|2023-04-08|DONE|LIVE
+460|60|1531|DeskA|5|John|Unilever ord|2019-06-19|DONE|LIVE
+461|61|8758|DeskA|4|Eric|Asahi Chemical Ind.|2022-07-16|SIMULATION|SIMULATION
+462|62|9122|DeskA|9|Henry|Sumitomo Trust and Banking|2024-04-27|SIMULATION|SIMULATION
+463|63|3546|DeskB|5|Stan|Mitsubishi Estate|2026-11-16|SIMULATION|SIMULATION
+464|64|6927|DeskA|4|Lucy|Cosco Co.|2027-03-13|SIMULATION|SIMULATION
+465|65|6247|DeskA|6|John|Rockwell Automation  Inc.|2027-05-26|SIMULATION|SIMULATION
+466|66|1935|DeskB|0|Eric|Formosa Plastics Corporation|2024-06-09|SIMULATION|SIMULATION
+467|67|8496|DeskB|5|Lucy|Sumitomo Electric|2023-01-06|MATCHED|LIVE
+468|68|2632|DeskB|4|Stan|China Life Insurance Company Limited|2021-05-28|SIMULATION|SIMULATION
+469|69|2763|DeskA|0|Sam|HSBC Holdings plc|2021-12-19|SIMULATION|SIMULATION
+470|70|1956|DeskA|9|Sam|Total System Services|2022-12-27|MATCHED|LIVE
+471|71|9519|DeskB|0|Will|Reed Elsevier PLC|2025-02-16|MATCHED|LIVE
+472|72|8601|DeskB|6|Will|Mitsubishi Electric Co.|2023-09-24|MATCHED|LIVE
+473|73|5277|DeskA|6|Will|Toyota Industries|2021-06-25|MATCHED|LIVE
+474|74|878|DeskA|3|John|BHP Billiton Limited|2022-09-26|SIMULATION|SIMULATION
+475|75|1422|DeskB|5|Lucy|Tyco International (New)|2022-04-05|DONE|LIVE
+476|76|9965|DeskB|2|Lucy|Mitsui Mining and Sm.|2028-03-31|SIMULATION|SIMULATION
+477|77|1444|DeskB|0|Henry|Mitsubishi Tokyo Financial Group|2026-05-16|MATCHED|LIVE
+478|78|8684|DeskB|9|Henry|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2029-06-08|SIMULATION|SIMULATION
+479|79|641|DeskA|3|John|Cathay Pacific Airways Ltd.|2027-01-13|DONE|LIVE
+480|80|3378|DeskB|1|Eric|Unilever ord|2023-08-19|SIMULATION|SIMULATION
+481|81|5153|DeskB|1|Stan|Asahi Chemical Ind.|2024-01-18|MATCHED|LIVE
+482|82|1079|DeskB|2|Eric|Sumitomo Trust and Banking|2025-05-15|DONE|LIVE
+483|83|2350|DeskA|5|Luke|Mitsubishi Estate|2020-07-14|DONE|LIVE
+484|84|7646|DeskA|5|Lucy|Cosco Co.|2020-03-18|SIMULATION|SIMULATION
+485|85|3558|DeskB|9|John|Rockwell Automation  Inc.|2026-04-15|DONE|LIVE
+486|86|6540|DeskA|4|Stan|Formosa Plastics Corporation|2027-04-22|MATCHED|LIVE
+487|87|7464|DeskB|4|Lucy|Sumitomo Electric|2026-07-13|DONE|LIVE
+488|88|6296|DeskA|1|Eric|China Life Insurance Company Limited|2023-08-11|SIMULATION|SIMULATION
+489|89|2951|DeskA|2|Will|HSBC Holdings plc|2027-02-23|SIMULATION|SIMULATION
+490|90|3499|DeskB|1|John|Total System Services|2028-10-13|SIMULATION|SIMULATION
+491|91|7141|DeskA|5|Henry|Reed Elsevier PLC|2024-03-18|SIMULATION|SIMULATION
+492|92|4588|DeskA|9|Eric|Mitsubishi Electric Co.|2029-03-27|SIMULATION|SIMULATION
+493|93|2039|DeskA|5|Luke|Toyota Industries|2025-05-14|DONE|LIVE
+494|94|4900|DeskA|3|Will|BHP Billiton Limited|2019-10-16|SIMULATION|SIMULATION
+495|95|6015|DeskA|6|John|Tyco International (New)|2024-12-19|MATCHED|LIVE
+496|96|6595|DeskA|6|Henry|Mitsui Mining and Sm.|2021-10-25|DONE|LIVE
+497|97|776|DeskB|5|Lucy|Mitsubishi Tokyo Financial Group|2027-05-09|MATCHED|LIVE
+498|98|961|DeskA|8|Lucy|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2021-01-21|SIMULATION|SIMULATION
+499|99|9471|DeskA|5|Henry|Cathay Pacific Airways Ltd.|2028-06-16|SIMULATION|SIMULATION
+500|0|5720|DeskB|9|Henry|Unilever ord|2021-11-09|DONE|LIVE
+501|1|8017|DeskA|9|Sam|Asahi Chemical Ind.|2022-07-31|MATCHED|LIVE
+502|2|7733|DeskA|5|Stan|Sumitomo Trust and Banking|2025-12-05|DONE|LIVE
+503|3|8543|DeskB|4|Henry|Mitsubishi Estate|2026-04-28|SIMULATION|SIMULATION
+504|4|1405|DeskA|1|Sam|Cosco Co.|2028-05-16|MATCHED|LIVE
+505|5|2128|DeskB|2|Eric|Rockwell Automation  Inc.|2026-12-06|DONE|LIVE
+506|6|167|DeskB|8|Stan|Formosa Plastics Corporation|2028-04-14|DONE|LIVE
+507|7|1459|DeskA|5|Luke|Sumitomo Electric|2023-09-14|DONE|LIVE
+508|8|2984|DeskA|7|Henry|China Life Insurance Company Limited|2022-09-21|SIMULATION|SIMULATION
+509|9|1853|DeskB|4|Stan|HSBC Holdings plc|2020-06-06|SIMULATION|SIMULATION
+510|10|9333|DeskB|2|Will|Total System Services|2020-01-05|DONE|LIVE
+511|11|8190|DeskB|7|Charles|Reed Elsevier PLC|2025-04-23|SIMULATION|SIMULATION
+512|12|5700|DeskB|5|Will|Mitsubishi Electric Co.|2025-10-24|MATCHED|LIVE
+513|13|3296|DeskB|6|Lucy|Toyota Industries|2027-11-25|SIMULATION|SIMULATION
+514|14|450|DeskB|4|Luke|BHP Billiton Limited|2029-01-27|SIMULATION|SIMULATION
+515|15|4726|DeskB|5|Sam|Tyco International (New)|2020-12-20|MATCHED|LIVE
+516|16|8837|DeskB|6|John|Mitsui Mining and Sm.|2020-12-05|SIMULATION|SIMULATION
+517|17|6944|DeskB|4|Eric|Mitsubishi Tokyo Financial Group|2025-04-02|DONE|LIVE
+518|18|8478|DeskA|5|Charles|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2027-02-20|MATCHED|LIVE
+519|19|4012|DeskA|8|Luke|Cathay Pacific Airways Ltd.|2021-07-11|DONE|LIVE
+520|20|3441|DeskB|6|Lucy|Unilever ord|2023-04-26|DONE|LIVE
+521|21|4520|DeskB|3|Lucy|Asahi Chemical Ind.|2020-05-14|DONE|LIVE
+522|22|4016|DeskB|6|Luke|Sumitomo Trust and Banking|2027-11-11|MATCHED|LIVE
+523|23|3146|DeskB|7|John|Mitsubishi Estate|2019-08-29|MATCHED|LIVE
+524|24|9624|DeskB|5|Henry|Cosco Co.|2028-07-15|SIMULATION|SIMULATION
+525|25|2934|DeskA|7|Sam|Rockwell Automation  Inc.|2021-06-19|SIMULATION|SIMULATION
+526|26|1496|DeskB|0|Luke|Formosa Plastics Corporation|2028-07-21|DONE|LIVE
+527|27|35|DeskB|9|Luke|Sumitomo Electric|2025-09-14|SIMULATION|SIMULATION
+528|28|4157|DeskA|3|Charles|China Life Insurance Company Limited|2024-05-08|MATCHED|LIVE
+529|29|8648|DeskB|7|Stan|HSBC Holdings plc|2027-01-25|SIMULATION|SIMULATION
+530|30|2101|DeskA|5|John|Total System Services|2023-03-27|MATCHED|LIVE
+531|31|2494|DeskA|6|Stan|Reed Elsevier PLC|2020-06-26|MATCHED|LIVE
+532|32|1831|DeskB|6|Will|Mitsubishi Electric Co.|2028-05-16|DONE|LIVE
+533|33|8796|DeskB|4|Charles|Toyota Industries|2020-08-21|MATCHED|LIVE
+534|34|574|DeskA|3|Luke|BHP Billiton Limited|2025-10-29|SIMULATION|SIMULATION
+535|35|3732|DeskA|2|Luke|Tyco International (New)|2026-05-18|SIMULATION|SIMULATION
+536|36|8228|DeskB|3|Eric|Mitsui Mining and Sm.|2021-11-26|DONE|LIVE
+537|37|9508|DeskA|1|Henry|Mitsubishi Tokyo Financial Group|2023-03-06|MATCHED|LIVE
+538|38|130|DeskA|3|Will|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2021-01-24|SIMULATION|SIMULATION
+539|39|159|DeskB|6|Henry|Cathay Pacific Airways Ltd.|2027-06-23|DONE|LIVE
+540|40|5618|DeskB|7|Henry|Unilever ord|2022-07-20|MATCHED|LIVE
+541|41|7441|DeskA|6|Luke|Asahi Chemical Ind.|2024-11-14|MATCHED|LIVE
+542|42|7486|DeskA|8|Eric|Sumitomo Trust and Banking|2022-01-03|MATCHED|LIVE
+543|43|6663|DeskA|6|Stan|Mitsubishi Estate|2019-06-28|DONE|LIVE
+544|44|3905|DeskA|0|Charles|Cosco Co.|2027-05-20|MATCHED|LIVE
+545|45|7746|DeskA|3|Charles|Rockwell Automation  Inc.|2023-09-21|DONE|LIVE
+546|46|4282|DeskB|3|Stan|Formosa Plastics Corporation|2026-07-04|DONE|LIVE
+547|47|7564|DeskA|6|Charles|Sumitomo Electric|2023-03-28|SIMULATION|SIMULATION
+548|48|2614|DeskB|5|Henry|China Life Insurance Company Limited|2024-04-28|DONE|LIVE
+549|49|5126|DeskB|0|Stan|HSBC Holdings plc|2020-02-21|MATCHED|LIVE
+550|50|4349|DeskB|3|Henry|Total System Services|2019-11-14|DONE|LIVE
+551|51|6323|DeskB|3|Luke|Reed Elsevier PLC|2022-07-09|DONE|LIVE
+552|52|8252|DeskB|4|Lucy|Mitsubishi Electric Co.|2027-09-21|MATCHED|LIVE
+553|53|5370|DeskA|0|Charles|Toyota Industries|2026-12-06|SIMULATION|SIMULATION
+554|54|9878|DeskB|4|Henry|BHP Billiton Limited|2026-10-28|SIMULATION|SIMULATION
+555|55|5352|DeskB|2|Henry|Tyco International (New)|2022-01-09|MATCHED|LIVE
+556|56|2248|DeskA|0|Eric|Mitsui Mining and Sm.|2020-11-27|MATCHED|LIVE
+557|57|5132|DeskA|6|Sam|Mitsubishi Tokyo Financial Group|2024-06-30|MATCHED|LIVE
+558|58|1117|DeskB|1|John|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2025-03-13|MATCHED|LIVE
+559|59|9688|DeskB|3|Charles|Cathay Pacific Airways Ltd.|2023-07-13|SIMULATION|SIMULATION
+560|60|7716|DeskA|5|Luke|Unilever ord|2028-01-16|DONE|LIVE
+561|61|8911|DeskA|6|Eric|Asahi Chemical Ind.|2026-03-07|SIMULATION|SIMULATION
+562|62|6456|DeskA|3|Sam|Sumitomo Trust and Banking|2020-03-16|SIMULATION|SIMULATION
+563|63|6650|DeskB|3|Henry|Mitsubishi Estate|2025-02-22|DONE|LIVE
+564|64|6987|DeskA|7|Sam|Cosco Co.|2019-09-17|DONE|LIVE
+565|65|2645|DeskA|8|Sam|Rockwell Automation  Inc.|2023-07-30|MATCHED|LIVE
+566|66|6687|DeskB|6|John|Formosa Plastics Corporation|2025-04-30|DONE|LIVE
+567|67|9213|DeskB|1|Will|Sumitomo Electric|2025-08-31|DONE|LIVE
+568|68|3515|DeskB|4|Stan|China Life Insurance Company Limited|2026-05-19|DONE|LIVE
+569|69|1773|DeskA|3|Lucy|HSBC Holdings plc|2025-03-04|MATCHED|LIVE
+570|70|6564|DeskA|5|Stan|Total System Services|2027-10-19|MATCHED|LIVE
+571|71|216|DeskB|6|Henry|Reed Elsevier PLC|2023-11-29|SIMULATION|SIMULATION
+572|72|9813|DeskB|2|Eric|Mitsubishi Electric Co.|2028-05-31|SIMULATION|SIMULATION
+573|73|7373|DeskA|6|Lucy|Toyota Industries|2026-04-02|DONE|LIVE
+574|74|3059|DeskA|9|Stan|BHP Billiton Limited|2025-12-12|MATCHED|LIVE
+575|75|2719|DeskB|0|Stan|Tyco International (New)|2027-06-06|SIMULATION|SIMULATION
+576|76|2435|DeskB|3|Sam|Mitsui Mining and Sm.|2024-07-21|SIMULATION|SIMULATION
+577|77|1669|DeskB|9|Luke|Mitsubishi Tokyo Financial Group|2028-10-05|DONE|LIVE
+578|78|9557|DeskB|6|Henry|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2028-09-19|SIMULATION|SIMULATION
+579|79|5124|DeskA|1|Stan|Cathay Pacific Airways Ltd.|2026-04-19|MATCHED|LIVE
+580|80|7975|DeskB|8|Will|Unilever ord|2027-12-12|DONE|LIVE
+581|81|575|DeskB|9|Lucy|Asahi Chemical Ind.|2029-03-13|DONE|LIVE
+582|82|111|DeskB|0|John|Sumitomo Trust and Banking|2019-10-13|SIMULATION|SIMULATION
+583|83|8994|DeskA|1|Stan|Mitsubishi Estate|2023-04-26|MATCHED|LIVE
+584|84|2354|DeskA|2|Luke|Cosco Co.|2026-12-23|SIMULATION|SIMULATION
+585|85|276|DeskB|4|Luke|Rockwell Automation  Inc.|2022-04-02|DONE|LIVE
+586|86|7862|DeskA|2|Eric|Formosa Plastics Corporation|2025-12-08|DONE|LIVE
+587|87|7427|DeskB|5|Sam|Sumitomo Electric|2026-04-25|SIMULATION|SIMULATION
+588|88|6602|DeskA|2|Sam|China Life Insurance Company Limited|2028-12-22|SIMULATION|SIMULATION
+589|89|950|DeskA|8|Stan|HSBC Holdings plc|2023-12-30|SIMULATION|SIMULATION
+590|90|544|DeskB|0|John|Total System Services|2020-11-10|SIMULATION|SIMULATION
+591|91|5458|DeskA|4|Eric|Reed Elsevier PLC|2024-09-17|MATCHED|LIVE
+592|92|1974|DeskA|5|Eric|Mitsubishi Electric Co.|2019-08-25|MATCHED|LIVE
+593|93|2279|DeskA|2|Sam|Toyota Industries|2023-11-16|DONE|LIVE
+594|94|3322|DeskA|5|John|BHP Billiton Limited|2028-12-14|DONE|LIVE
+595|95|8805|DeskA|5|Eric|Tyco International (New)|2022-04-07|DONE|LIVE
+596|96|3822|DeskA|6|Luke|Mitsui Mining and Sm.|2024-11-07|DONE|LIVE
+597|97|4404|DeskB|6|Stan|Mitsubishi Tokyo Financial Group|2019-06-20|MATCHED|LIVE
+598|98|5845|DeskA|4|Stan|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2026-02-13|MATCHED|LIVE
+599|99|6052|DeskA|0|Will|Cathay Pacific Airways Ltd.|2021-10-24|SIMULATION|SIMULATION
+600|0|3797|DeskB|8|Luke|Unilever ord|2025-04-20|SIMULATION|SIMULATION
+601|1|6948|DeskA|4|Will|Asahi Chemical Ind.|2019-08-22|MATCHED|LIVE
+602|2|6111|DeskA|9|Will|Sumitomo Trust and Banking|2027-01-05|DONE|LIVE
+603|3|4245|DeskB|4|Stan|Mitsubishi Estate|2021-12-14|MATCHED|LIVE
+604|4|4105|DeskA|0|Sam|Cosco Co.|2024-06-03|DONE|LIVE
+605|5|4785|DeskB|0|Eric|Rockwell Automation  Inc.|2025-09-06|DONE|LIVE
+606|6|1568|DeskB|8|Sam|Formosa Plastics Corporation|2020-10-24|MATCHED|LIVE
+607|7|3341|DeskA|6|Stan|Sumitomo Electric|2021-03-14|DONE|LIVE
+608|8|7173|DeskA|6|Lucy|China Life Insurance Company Limited|2025-07-25|DONE|LIVE
+609|9|8777|DeskB|5|Luke|HSBC Holdings plc|2027-07-21|MATCHED|LIVE
+610|10|4887|DeskB|2|Will|Total System Services|2028-08-22|SIMULATION|SIMULATION
+611|11|2166|DeskB|9|Henry|Reed Elsevier PLC|2026-10-05|DONE|LIVE
+612|12|7325|DeskB|9|Charles|Mitsubishi Electric Co.|2020-09-20|MATCHED|LIVE
+613|13|7705|DeskB|7|Sam|Toyota Industries|2026-12-23|DONE|LIVE
+614|14|2765|DeskB|1|Henry|BHP Billiton Limited|2028-07-25|DONE|LIVE
+615|15|1122|DeskB|1|Henry|Tyco International (New)|2020-09-25|DONE|LIVE
+616|16|2510|DeskB|7|John|Mitsui Mining and Sm.|2025-01-20|SIMULATION|SIMULATION
+617|17|8218|DeskB|6|Eric|Mitsubishi Tokyo Financial Group|2023-03-03|DONE|LIVE
+618|18|6566|DeskA|6|Luke|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2025-08-02|MATCHED|LIVE
+619|19|4574|DeskA|8|Charles|Cathay Pacific Airways Ltd.|2022-09-19|DONE|LIVE
+620|20|9052|DeskB|8|Sam|Unilever ord|2026-02-08|MATCHED|LIVE
+621|21|7678|DeskB|8|Lucy|Asahi Chemical Ind.|2022-07-25|MATCHED|LIVE
+622|22|7876|DeskB|9|Charles|Sumitomo Trust and Banking|2027-03-06|SIMULATION|SIMULATION
+623|23|1386|DeskB|8|John|Mitsubishi Estate|2019-09-27|DONE|LIVE
+624|24|6757|DeskB|6|Will|Cosco Co.|2028-09-29|MATCHED|LIVE
+625|25|3586|DeskA|8|John|Rockwell Automation  Inc.|2020-07-23|DONE|LIVE
+626|26|1781|DeskB|7|Eric|Formosa Plastics Corporation|2028-11-23|SIMULATION|SIMULATION
+627|27|9653|DeskB|6|Luke|Sumitomo Electric|2022-12-18|MATCHED|LIVE
+628|28|8826|DeskA|6|Eric|China Life Insurance Company Limited|2020-07-13|SIMULATION|SIMULATION
+629|29|1591|DeskB|2|Charles|HSBC Holdings plc|2024-07-17|MATCHED|LIVE
+630|30|6779|DeskA|2|Lucy|Total System Services|2022-06-02|SIMULATION|SIMULATION
+631|31|4079|DeskA|7|Lucy|Reed Elsevier PLC|2021-12-21|MATCHED|LIVE
+632|32|9401|DeskB|3|Luke|Mitsubishi Electric Co.|2020-01-08|DONE|LIVE
+633|33|4510|DeskB|3|John|Toyota Industries|2020-06-23|MATCHED|LIVE
+634|34|5100|DeskA|3|Eric|BHP Billiton Limited|2025-01-22|SIMULATION|SIMULATION
+635|35|4651|DeskA|5|Sam|Tyco International (New)|2020-06-20|MATCHED|LIVE
+636|36|8315|DeskB|4|Eric|Mitsui Mining and Sm.|2021-11-19|MATCHED|LIVE
+637|37|6568|DeskA|9|Luke|Mitsubishi Tokyo Financial Group|2026-10-18|MATCHED|LIVE
+638|38|9580|DeskA|7|John|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2020-05-08|SIMULATION|SIMULATION
+639|39|3804|DeskB|2|Luke|Cathay Pacific Airways Ltd.|2028-04-20|DONE|LIVE
+640|40|1111|DeskB|9|Eric|Unilever ord|2028-07-16|SIMULATION|SIMULATION
+641|41|3848|DeskA|4|Charles|Asahi Chemical Ind.|2020-06-14|SIMULATION|SIMULATION
+642|42|2283|DeskA|4|John|Sumitomo Trust and Banking|2024-09-30|SIMULATION|SIMULATION
+643|43|1218|DeskA|1|Stan|Mitsubishi Estate|2027-06-12|MATCHED|LIVE
+644|44|3839|DeskA|8|Eric|Cosco Co.|2021-06-26|MATCHED|LIVE
+645|45|6440|DeskA|0|Will|Rockwell Automation  Inc.|2022-08-11|MATCHED|LIVE
+646|46|1851|DeskB|4|Charles|Formosa Plastics Corporation|2021-07-10|DONE|LIVE
+647|47|8863|DeskA|3|Henry|Sumitomo Electric|2022-06-01|MATCHED|LIVE
+648|48|2986|DeskB|7|Will|China Life Insurance Company Limited|2025-03-31|MATCHED|LIVE
+649|49|707|DeskB|5|Lucy|HSBC Holdings plc|2025-09-24|DONE|LIVE
+650|50|2237|DeskB|9|Lucy|Total System Services|2023-02-12|SIMULATION|SIMULATION
+651|51|8843|DeskB|5|Luke|Reed Elsevier PLC|2021-03-28|DONE|LIVE
+652|52|7053|DeskB|4|Will|Mitsubishi Electric Co.|2021-01-23|MATCHED|LIVE
+653|53|3360|DeskA|0|Luke|Toyota Industries|2023-12-13|MATCHED|LIVE
+654|54|9169|DeskB|2|Charles|BHP Billiton Limited|2024-09-28|SIMULATION|SIMULATION
+655|55|6496|DeskB|7|Sam|Tyco International (New)|2026-11-11|MATCHED|LIVE
+656|56|490|DeskA|0|Eric|Mitsui Mining and Sm.|2025-09-06|SIMULATION|SIMULATION
+657|57|7860|DeskA|8|Luke|Mitsubishi Tokyo Financial Group|2022-02-03|SIMULATION|SIMULATION
+658|58|741|DeskB|3|Charles|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2020-08-05|MATCHED|LIVE
+659|59|7486|DeskB|0|Sam|Cathay Pacific Airways Ltd.|2025-12-12|DONE|LIVE
+660|60|4197|DeskA|9|Henry|Unilever ord|2021-12-18|MATCHED|LIVE
+661|61|8123|DeskA|0|Lucy|Asahi Chemical Ind.|2022-11-25|DONE|LIVE
+662|62|1017|DeskA|0|Stan|Sumitomo Trust and Banking|2023-09-10|MATCHED|LIVE
+663|63|8441|DeskB|0|Eric|Mitsubishi Estate|2020-03-14|MATCHED|LIVE
+664|64|2942|DeskA|7|John|Cosco Co.|2022-11-07|MATCHED|LIVE
+665|65|379|DeskA|6|John|Rockwell Automation  Inc.|2027-07-19|SIMULATION|SIMULATION
+666|66|6445|DeskB|7|Lucy|Formosa Plastics Corporation|2028-01-12|SIMULATION|SIMULATION
+667|67|2205|DeskB|8|Eric|Sumitomo Electric|2024-08-07|SIMULATION|SIMULATION
+668|68|1329|DeskB|7|Henry|China Life Insurance Company Limited|2025-02-19|DONE|LIVE
+669|69|3305|DeskA|8|John|HSBC Holdings plc|2023-01-09|SIMULATION|SIMULATION
+670|70|777|DeskA|4|Eric|Total System Services|2026-08-13|MATCHED|LIVE
+671|71|4670|DeskB|7|Lucy|Reed Elsevier PLC|2028-10-21|MATCHED|LIVE
+672|72|5513|DeskB|9|Stan|Mitsubishi Electric Co.|2019-09-24|SIMULATION|SIMULATION
+673|73|8260|DeskA|2|Will|Toyota Industries|2023-03-15|MATCHED|LIVE
+674|74|3939|DeskA|2|Eric|BHP Billiton Limited|2021-12-05|DONE|LIVE
+675|75|5422|DeskB|5|Lucy|Tyco International (New)|2021-03-22|MATCHED|LIVE
+676|76|1745|DeskB|0|Charles|Mitsui Mining and Sm.|2026-05-19|DONE|LIVE
+677|77|3883|DeskB|6|Luke|Mitsubishi Tokyo Financial Group|2022-01-27|SIMULATION|SIMULATION
+678|78|1818|DeskB|0|Stan|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2028-03-30|DONE|LIVE
+679|79|865|DeskA|6|Lucy|Cathay Pacific Airways Ltd.|2025-06-20|SIMULATION|SIMULATION
+680|80|5629|DeskB|4|Eric|Unilever ord|2029-04-16|SIMULATION|SIMULATION
+681|81|935|DeskB|6|Stan|Asahi Chemical Ind.|2027-10-15|MATCHED|LIVE
+682|82|4454|DeskB|1|Luke|Sumitomo Trust and Banking|2024-07-24|MATCHED|LIVE
+683|83|1269|DeskA|0|Lucy|Mitsubishi Estate|2022-11-02|MATCHED|LIVE
+684|84|1326|DeskA|7|Luke|Cosco Co.|2022-11-04|MATCHED|LIVE
+685|85|6380|DeskB|8|Charles|Rockwell Automation  Inc.|2020-02-09|SIMULATION|SIMULATION
+686|86|8904|DeskA|8|Lucy|Formosa Plastics Corporation|2023-10-30|SIMULATION|SIMULATION
+687|87|4246|DeskB|1|John|Sumitomo Electric|2022-11-09|SIMULATION|SIMULATION
+688|88|3499|DeskA|9|Lucy|China Life Insurance Company Limited|2022-07-31|DONE|LIVE
+689|89|9691|DeskA|5|Eric|HSBC Holdings plc|2023-05-23|MATCHED|LIVE
+690|90|8992|DeskB|0|Eric|Total System Services|2022-05-06|SIMULATION|SIMULATION
+691|91|7381|DeskA|6|Sam|Reed Elsevier PLC|2026-03-11|MATCHED|LIVE
+692|92|799|DeskA|2|Charles|Mitsubishi Electric Co.|2021-10-23|SIMULATION|SIMULATION
+693|93|4291|DeskA|7|Charles|Toyota Industries|2021-02-26|MATCHED|LIVE
+694|94|2186|DeskA|4|Luke|BHP Billiton Limited|2022-07-10|MATCHED|LIVE
+695|95|4842|DeskA|2|Stan|Tyco International (New)|2024-02-09|MATCHED|LIVE
+696|96|1678|DeskA|1|Henry|Mitsui Mining and Sm.|2025-03-26|MATCHED|LIVE
+697|97|1301|DeskB|0|Eric|Mitsubishi Tokyo Financial Group|2023-11-17|SIMULATION|SIMULATION
+698|98|2450|DeskA|7|Henry|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2023-03-30|DONE|LIVE
+699|99|3390|DeskA|3|Luke|Cathay Pacific Airways Ltd.|2024-04-05|MATCHED|LIVE
+700|0|9689|DeskB|0|Will|Unilever ord|2020-11-26|MATCHED|LIVE
+701|1|560|DeskA|8|Charles|Asahi Chemical Ind.|2027-03-16|MATCHED|LIVE
+702|2|826|DeskA|8|Luke|Sumitomo Trust and Banking|2024-03-13|MATCHED|LIVE
+703|3|8416|DeskB|2|Stan|Mitsubishi Estate|2024-08-06|DONE|LIVE
+704|4|4477|DeskA|1|Sam|Cosco Co.|2027-09-13|MATCHED|LIVE
+705|5|7669|DeskB|6|Charles|Rockwell Automation  Inc.|2022-06-07|MATCHED|LIVE
+706|6|3019|DeskB|1|Stan|Formosa Plastics Corporation|2025-03-14|DONE|LIVE
+707|7|9137|DeskA|7|Sam|Sumitomo Electric|2027-01-02|MATCHED|LIVE
+708|8|2292|DeskA|6|Luke|China Life Insurance Company Limited|2025-01-07|DONE|LIVE
+709|9|9297|DeskB|9|Charles|HSBC Holdings plc|2027-12-28|SIMULATION|SIMULATION
+710|10|3020|DeskB|7|John|Total System Services|2023-08-04|SIMULATION|SIMULATION
+711|11|2617|DeskB|1|Eric|Reed Elsevier PLC|2023-06-15|SIMULATION|SIMULATION
+712|12|4373|DeskB|7|Sam|Mitsubishi Electric Co.|2021-08-21|SIMULATION|SIMULATION
+713|13|3497|DeskB|0|Stan|Toyota Industries|2020-01-27|MATCHED|LIVE
+714|14|911|DeskB|0|Sam|BHP Billiton Limited|2020-02-07|SIMULATION|SIMULATION
+715|15|6960|DeskB|9|Stan|Tyco International (New)|2028-05-12|MATCHED|LIVE
+716|16|9762|DeskB|3|Luke|Mitsui Mining and Sm.|2026-02-19|DONE|LIVE
+717|17|4328|DeskB|8|Luke|Mitsubishi Tokyo Financial Group|2021-05-28|MATCHED|LIVE
+718|18|5564|DeskA|2|John|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2022-10-25|DONE|LIVE
+719|19|6785|DeskA|4|Charles|Cathay Pacific Airways Ltd.|2019-09-20|MATCHED|LIVE
+720|20|1385|DeskB|5|Eric|Unilever ord|2019-07-06|DONE|LIVE
+721|21|2958|DeskB|4|Eric|Asahi Chemical Ind.|2028-11-27|SIMULATION|SIMULATION
+722|22|9415|DeskB|8|John|Sumitomo Trust and Banking|2024-01-25|DONE|LIVE
+723|23|8939|DeskB|6|Stan|Mitsubishi Estate|2022-07-02|SIMULATION|SIMULATION
+724|24|3374|DeskB|5|Eric|Cosco Co.|2019-12-07|SIMULATION|SIMULATION
+725|25|2917|DeskA|6|Eric|Rockwell Automation  Inc.|2021-12-24|MATCHED|LIVE
+726|26|8003|DeskB|3|Henry|Formosa Plastics Corporation|2019-10-31|DONE|LIVE
+727|27|2168|DeskB|6|Charles|Sumitomo Electric|2028-03-09|DONE|LIVE
+728|28|3799|DeskA|0|Luke|China Life Insurance Company Limited|2021-06-23|DONE|LIVE
+729|29|5796|DeskB|8|Will|HSBC Holdings plc|2023-06-14|DONE|LIVE
+730|30|6504|DeskA|6|Luke|Total System Services|2020-06-04|SIMULATION|SIMULATION
+731|31|9475|DeskA|9|Will|Reed Elsevier PLC|2026-02-10|DONE|LIVE
+732|32|952|DeskB|1|Lucy|Mitsubishi Electric Co.|2024-10-28|MATCHED|LIVE
+733|33|2973|DeskB|5|Henry|Toyota Industries|2027-11-10|DONE|LIVE
+734|34|1539|DeskA|7|Luke|BHP Billiton Limited|2022-12-25|DONE|LIVE
+735|35|8023|DeskA|7|Eric|Tyco International (New)|2026-09-29|DONE|LIVE
+736|36|855|DeskB|9|Sam|Mitsui Mining and Sm.|2021-05-06|SIMULATION|SIMULATION
+737|37|7305|DeskA|9|Henry|Mitsubishi Tokyo Financial Group|2021-07-18|SIMULATION|SIMULATION
+738|38|5086|DeskA|4|Sam|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2025-08-10|MATCHED|LIVE
+739|39|981|DeskB|4|Eric|Cathay Pacific Airways Ltd.|2028-08-15|SIMULATION|SIMULATION
+740|40|8847|DeskB|2|Will|Unilever ord|2021-10-18|DONE|LIVE
+741|41|1393|DeskA|8|Lucy|Asahi Chemical Ind.|2025-12-27|SIMULATION|SIMULATION
+742|42|9455|DeskA|8|Will|Sumitomo Trust and Banking|2028-01-25|SIMULATION|SIMULATION
+743|43|9525|DeskA|4|Henry|Mitsubishi Estate|2028-06-20|SIMULATION|SIMULATION
+744|44|890|DeskA|2|Will|Cosco Co.|2022-10-24|SIMULATION|SIMULATION
+745|45|1373|DeskA|5|Luke|Rockwell Automation  Inc.|2026-02-04|DONE|LIVE
+746|46|5841|DeskB|9|Luke|Formosa Plastics Corporation|2028-02-08|MATCHED|LIVE
+747|47|3578|DeskA|0|Luke|Sumitomo Electric|2026-05-18|MATCHED|LIVE
+748|48|3748|DeskB|0|Henry|China Life Insurance Company Limited|2020-02-05|MATCHED|LIVE
+749|49|4257|DeskB|7|Luke|HSBC Holdings plc|2021-06-15|SIMULATION|SIMULATION
+750|50|1908|DeskB|5|Stan|Total System Services|2024-01-09|DONE|LIVE
+751|51|123|DeskB|9|Eric|Reed Elsevier PLC|2022-01-25|MATCHED|LIVE
+752|52|9939|DeskB|6|Stan|Mitsubishi Electric Co.|2025-07-03|DONE|LIVE
+753|53|5361|DeskA|1|Charles|Toyota Industries|2027-01-09|DONE|LIVE
+754|54|3605|DeskB|2|Henry|BHP Billiton Limited|2022-02-27|SIMULATION|SIMULATION
+755|55|4630|DeskB|1|Henry|Tyco International (New)|2023-08-23|SIMULATION|SIMULATION
+756|56|6672|DeskA|2|Eric|Mitsui Mining and Sm.|2027-03-02|MATCHED|LIVE
+757|57|1052|DeskA|7|Henry|Mitsubishi Tokyo Financial Group|2019-08-08|DONE|LIVE
+758|58|3924|DeskB|8|Luke|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2025-12-30|DONE|LIVE
+759|59|3593|DeskB|6|Luke|Cathay Pacific Airways Ltd.|2026-03-18|DONE|LIVE
+760|60|6328|DeskA|4|Sam|Unilever ord|2021-12-07|MATCHED|LIVE
+761|61|4060|DeskA|9|Charles|Asahi Chemical Ind.|2021-10-31|DONE|LIVE
+762|62|3478|DeskA|5|Sam|Sumitomo Trust and Banking|2026-07-26|SIMULATION|SIMULATION
+763|63|8257|DeskB|5|Lucy|Mitsubishi Estate|2025-05-01|DONE|LIVE
+764|64|5826|DeskA|3|Stan|Cosco Co.|2028-08-01|SIMULATION|SIMULATION
+765|65|3156|DeskA|5|Eric|Rockwell Automation  Inc.|2020-01-17|MATCHED|LIVE
+766|66|7049|DeskB|6|Luke|Formosa Plastics Corporation|2027-11-10|MATCHED|LIVE
+767|67|4427|DeskB|8|Henry|Sumitomo Electric|2020-10-24|SIMULATION|SIMULATION
+768|68|4170|DeskB|2|Lucy|China Life Insurance Company Limited|2026-01-02|DONE|LIVE
+769|69|1956|DeskA|1|Will|HSBC Holdings plc|2022-02-12|SIMULATION|SIMULATION
+770|70|413|DeskA|9|John|Total System Services|2021-08-20|DONE|LIVE
+771|71|6841|DeskB|7|John|Reed Elsevier PLC|2026-12-05|MATCHED|LIVE
+772|72|9713|DeskB|0|Charles|Mitsubishi Electric Co.|2023-09-08|DONE|LIVE
+773|73|531|DeskA|5|Charles|Toyota Industries|2025-01-03|MATCHED|LIVE
+774|74|7962|DeskA|3|John|BHP Billiton Limited|2028-11-07|MATCHED|LIVE
+775|75|4951|DeskB|0|John|Tyco International (New)|2021-04-05|MATCHED|LIVE
+776|76|6451|DeskB|0|Charles|Mitsui Mining and Sm.|2024-01-23|DONE|LIVE
+777|77|7119|DeskB|8|John|Mitsubishi Tokyo Financial Group|2023-10-16|SIMULATION|SIMULATION
+778|78|921|DeskB|6|Lucy|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2020-09-02|SIMULATION|SIMULATION
+779|79|5872|DeskA|0|Henry|Cathay Pacific Airways Ltd.|2028-07-09|DONE|LIVE
+780|80|9539|DeskB|4|Charles|Unilever ord|2022-06-30|MATCHED|LIVE
+781|81|274|DeskB|2|Henry|Asahi Chemical Ind.|2021-03-01|MATCHED|LIVE
+782|82|8298|DeskB|3|Eric|Sumitomo Trust and Banking|2024-02-08|DONE|LIVE
+783|83|6169|DeskA|5|Lucy|Mitsubishi Estate|2027-03-02|DONE|LIVE
+784|84|5384|DeskA|2|Stan|Cosco Co.|2020-07-20|SIMULATION|SIMULATION
+785|85|3670|DeskB|8|John|Rockwell Automation  Inc.|2023-03-31|MATCHED|LIVE
+786|86|8999|DeskA|1|Sam|Formosa Plastics Corporation|2024-12-04|SIMULATION|SIMULATION
+787|87|9310|DeskB|3|Henry|Sumitomo Electric|2027-03-01|MATCHED|LIVE
+788|88|614|DeskA|3|Stan|China Life Insurance Company Limited|2022-04-04|DONE|LIVE
+789|89|3117|DeskA|9|Henry|HSBC Holdings plc|2023-07-10|DONE|LIVE
+790|90|5096|DeskB|4|Sam|Total System Services|2023-01-18|MATCHED|LIVE
+791|91|3514|DeskA|1|Stan|Reed Elsevier PLC|2020-03-10|SIMULATION|SIMULATION
+792|92|3517|DeskA|5|Sam|Mitsubishi Electric Co.|2023-03-12|MATCHED|LIVE
+793|93|6270|DeskA|5|John|Toyota Industries|2025-10-30|SIMULATION|SIMULATION
+794|94|2912|DeskA|8|Will|BHP Billiton Limited|2025-08-17|DONE|LIVE
+795|95|5972|DeskA|9|Luke|Tyco International (New)|2024-08-05|MATCHED|LIVE
+796|96|3526|DeskA|5|Henry|Mitsui Mining and Sm.|2028-12-25|DONE|LIVE
+797|97|8176|DeskB|6|Eric|Mitsubishi Tokyo Financial Group|2020-06-24|DONE|LIVE
+798|98|2734|DeskA|3|Lucy|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2023-01-29|SIMULATION|SIMULATION
+799|99|9548|DeskA|2|Will|Cathay Pacific Airways Ltd.|2023-03-16|DONE|LIVE
+800|0|2141|DeskB|6|Eric|Unilever ord|2029-01-14|DONE|LIVE
+801|1|1225|DeskA|6|Lucy|Asahi Chemical Ind.|2024-07-03|MATCHED|LIVE
+802|2|9778|DeskA|3|Charles|Sumitomo Trust and Banking|2027-08-07|MATCHED|LIVE
+803|3|5800|DeskB|9|Luke|Mitsubishi Estate|2025-01-16|MATCHED|LIVE
+804|4|7138|DeskA|9|Stan|Cosco Co.|2023-02-24|SIMULATION|SIMULATION
+805|5|5468|DeskB|5|John|Rockwell Automation  Inc.|2024-09-18|DONE|LIVE
+806|6|2111|DeskB|7|Henry|Formosa Plastics Corporation|2027-01-21|DONE|LIVE
+807|7|2399|DeskA|0|Luke|Sumitomo Electric|2028-11-08|DONE|LIVE
+808|8|6093|DeskA|4|John|China Life Insurance Company Limited|2025-07-20|MATCHED|LIVE
+809|9|3320|DeskB|6|John|HSBC Holdings plc|2024-06-03|MATCHED|LIVE
+810|10|4482|DeskB|6|John|Total System Services|2023-08-30|DONE|LIVE
+811|11|4442|DeskB|9|Stan|Reed Elsevier PLC|2021-03-13|MATCHED|LIVE
+812|12|848|DeskB|3|Sam|Mitsubishi Electric Co.|2023-06-12|DONE|LIVE
+813|13|4917|DeskB|4|Henry|Toyota Industries|2028-05-15|SIMULATION|SIMULATION
+814|14|3031|DeskB|7|Stan|BHP Billiton Limited|2022-01-03|SIMULATION|SIMULATION
+815|15|1544|DeskB|7|Luke|Tyco International (New)|2021-12-20|DONE|LIVE
+816|16|8988|DeskB|5|Charles|Mitsui Mining and Sm.|2019-12-29|SIMULATION|SIMULATION
+817|17|6828|DeskB|0|Stan|Mitsubishi Tokyo Financial Group|2028-02-06|SIMULATION|SIMULATION
+818|18|4780|DeskA|3|Sam|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2024-10-17|MATCHED|LIVE
+819|19|7847|DeskA|0|Charles|Cathay Pacific Airways Ltd.|2020-07-02|MATCHED|LIVE
+820|20|5119|DeskB|9|John|Unilever ord|2024-04-04|SIMULATION|SIMULATION
+821|21|6158|DeskB|9|Henry|Asahi Chemical Ind.|2023-06-24|SIMULATION|SIMULATION
+822|22|5667|DeskB|2|Will|Sumitomo Trust and Banking|2025-12-10|MATCHED|LIVE
+823|23|3129|DeskB|4|Luke|Mitsubishi Estate|2021-11-09|DONE|LIVE
+824|24|3809|DeskB|5|Eric|Cosco Co.|2024-10-26|MATCHED|LIVE
+825|25|2065|DeskA|0|Sam|Rockwell Automation  Inc.|2026-11-26|SIMULATION|SIMULATION
+826|26|708|DeskB|7|Will|Formosa Plastics Corporation|2021-07-23|DONE|LIVE
+827|27|6168|DeskB|6|Henry|Sumitomo Electric|2025-10-12|SIMULATION|SIMULATION
+828|28|8208|DeskA|4|Sam|China Life Insurance Company Limited|2020-07-28|DONE|LIVE
+829|29|9899|DeskB|8|Charles|HSBC Holdings plc|2022-04-18|DONE|LIVE
+830|30|5605|DeskA|9|Henry|Total System Services|2027-03-31|SIMULATION|SIMULATION
+831|31|4402|DeskA|1|Stan|Reed Elsevier PLC|2022-02-01|DONE|LIVE
+832|32|2013|DeskB|0|Sam|Mitsubishi Electric Co.|2025-10-02|DONE|LIVE
+833|33|4623|DeskB|7|Henry|Toyota Industries|2023-11-25|MATCHED|LIVE
+834|34|9564|DeskA|9|Eric|BHP Billiton Limited|2028-02-24|MATCHED|LIVE
+835|35|3610|DeskA|8|Stan|Tyco International (New)|2024-09-28|DONE|LIVE
+836|36|4583|DeskB|9|Will|Mitsui Mining and Sm.|2026-04-05|MATCHED|LIVE
+837|37|6112|DeskA|0|Charles|Mitsubishi Tokyo Financial Group|2029-06-08|MATCHED|LIVE
+838|38|7675|DeskA|0|Will|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2023-08-04|DONE|LIVE
+839|39|4286|DeskB|8|Stan|Cathay Pacific Airways Ltd.|2021-04-25|SIMULATION|SIMULATION
+840|40|7567|DeskB|9|Charles|Unilever ord|2027-07-07|DONE|LIVE
+841|41|7682|DeskA|6|Lucy|Asahi Chemical Ind.|2024-08-05|MATCHED|LIVE
+842|42|5203|DeskA|3|Sam|Sumitomo Trust and Banking|2025-12-10|SIMULATION|SIMULATION
+843|43|2220|DeskA|9|Eric|Mitsubishi Estate|2023-07-13|MATCHED|LIVE
+844|44|1607|DeskA|1|Stan|Cosco Co.|2028-03-09|MATCHED|LIVE
+845|45|4654|DeskA|9|Stan|Rockwell Automation  Inc.|2019-08-07|SIMULATION|SIMULATION
+846|46|9513|DeskB|5|John|Formosa Plastics Corporation|2024-09-30|SIMULATION|SIMULATION
+847|47|621|DeskA|1|Eric|Sumitomo Electric|2022-12-09|MATCHED|LIVE
+848|48|3133|DeskB|7|John|China Life Insurance Company Limited|2024-04-17|SIMULATION|SIMULATION
+849|49|9559|DeskB|3|Eric|HSBC Holdings plc|2025-05-19|MATCHED|LIVE
+850|50|5560|DeskB|1|Stan|Total System Services|2021-05-29|SIMULATION|SIMULATION
+851|51|2696|DeskB|4|Eric|Reed Elsevier PLC|2027-10-28|DONE|LIVE
+852|52|4745|DeskB|0|Henry|Mitsubishi Electric Co.|2021-09-02|DONE|LIVE
+853|53|1514|DeskA|8|Will|Toyota Industries|2021-07-24|DONE|LIVE
+854|54|4657|DeskB|1|Lucy|BHP Billiton Limited|2020-07-31|MATCHED|LIVE
+855|55|7505|DeskB|1|John|Tyco International (New)|2021-02-07|DONE|LIVE
+856|56|8797|DeskA|4|Luke|Mitsui Mining and Sm.|2028-03-11|SIMULATION|SIMULATION
+857|57|8637|DeskA|9|Lucy|Mitsubishi Tokyo Financial Group|2020-08-05|DONE|LIVE
+858|58|3803|DeskB|8|John|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2021-11-17|DONE|LIVE
+859|59|8928|DeskB|8|Sam|Cathay Pacific Airways Ltd.|2019-08-15|MATCHED|LIVE
+860|60|9760|DeskA|4|Stan|Unilever ord|2024-10-01|DONE|LIVE
+861|61|8350|DeskA|7|Luke|Asahi Chemical Ind.|2023-08-31|MATCHED|LIVE
+862|62|4424|DeskA|9|John|Sumitomo Trust and Banking|2024-01-08|DONE|LIVE
+863|63|5032|DeskB|5|Luke|Mitsubishi Estate|2026-04-17|DONE|LIVE
+864|64|8750|DeskA|2|Eric|Cosco Co.|2021-07-13|SIMULATION|SIMULATION
+865|65|9763|DeskA|5|Henry|Rockwell Automation  Inc.|2027-01-27|MATCHED|LIVE
+866|66|1373|DeskB|2|Stan|Formosa Plastics Corporation|2021-01-09|MATCHED|LIVE
+867|67|4499|DeskB|9|Eric|Sumitomo Electric|2027-11-26|MATCHED|LIVE
+868|68|5671|DeskB|5|Sam|China Life Insurance Company Limited|2021-08-19|DONE|LIVE
+869|69|8608|DeskA|4|Luke|HSBC Holdings plc|2019-11-17|SIMULATION|SIMULATION
+870|70|4574|DeskA|1|Luke|Total System Services|2023-04-29|MATCHED|LIVE
+871|71|6678|DeskB|2|Charles|Reed Elsevier PLC|2023-10-21|MATCHED|LIVE
+872|72|7690|DeskB|8|Charles|Mitsubishi Electric Co.|2029-03-11|MATCHED|LIVE
+873|73|8512|DeskA|3|Will|Toyota Industries|2026-06-25|DONE|LIVE
+874|74|7030|DeskA|9|Lucy|BHP Billiton Limited|2021-02-13|DONE|LIVE
+875|75|2026|DeskB|3|Luke|Tyco International (New)|2022-12-17|MATCHED|LIVE
+876|76|7980|DeskB|3|Henry|Mitsui Mining and Sm.|2023-02-17|SIMULATION|SIMULATION
+877|77|9343|DeskB|3|Eric|Mitsubishi Tokyo Financial Group|2021-03-28|MATCHED|LIVE
+878|78|7422|DeskB|7|Will|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2027-02-12|MATCHED|LIVE
+879|79|6250|DeskA|1|Luke|Cathay Pacific Airways Ltd.|2024-10-31|SIMULATION|SIMULATION
+880|80|577|DeskB|9|Charles|Unilever ord|2020-06-09|MATCHED|LIVE
+881|81|5218|DeskB|8|Sam|Asahi Chemical Ind.|2022-08-10|MATCHED|LIVE
+882|82|494|DeskB|6|Sam|Sumitomo Trust and Banking|2023-05-10|DONE|LIVE
+883|83|6795|DeskA|1|Stan|Mitsubishi Estate|2020-02-14|SIMULATION|SIMULATION
+884|84|2293|DeskA|3|Eric|Cosco Co.|2024-01-20|MATCHED|LIVE
+885|85|7310|DeskB|5|Sam|Rockwell Automation  Inc.|2024-03-26|SIMULATION|SIMULATION
+886|86|3068|DeskA|7|Charles|Formosa Plastics Corporation|2027-12-03|MATCHED|LIVE
+887|87|9407|DeskB|0|Stan|Sumitomo Electric|2024-07-28|MATCHED|LIVE
+888|88|7085|DeskA|4|Henry|China Life Insurance Company Limited|2023-01-17|SIMULATION|SIMULATION
+889|89|4811|DeskA|0|Lucy|HSBC Holdings plc|2025-09-17|DONE|LIVE
+890|90|2427|DeskB|5|Stan|Total System Services|2026-01-04|SIMULATION|SIMULATION
+891|91|7237|DeskA|8|Luke|Reed Elsevier PLC|2025-12-18|MATCHED|LIVE
+892|92|619|DeskA|1|John|Mitsubishi Electric Co.|2024-03-03|MATCHED|LIVE
+893|93|418|DeskA|7|Luke|Toyota Industries|2020-09-08|DONE|LIVE
+894|94|7431|DeskA|0|Stan|BHP Billiton Limited|2026-04-01|SIMULATION|SIMULATION
+895|95|3503|DeskA|5|John|Tyco International (New)|2028-07-12|SIMULATION|SIMULATION
+896|96|2685|DeskA|1|Luke|Mitsui Mining and Sm.|2021-05-24|DONE|LIVE
+897|97|3197|DeskB|8|Luke|Mitsubishi Tokyo Financial Group|2026-10-15|MATCHED|LIVE
+898|98|5084|DeskA|9|Stan|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2024-11-10|SIMULATION|SIMULATION
+899|99|9580|DeskA|1|Lucy|Cathay Pacific Airways Ltd.|2025-08-25|SIMULATION|SIMULATION
+900|0|5745|DeskB|3|Lucy|Unilever ord|2022-04-11|SIMULATION|SIMULATION
+901|1|3219|DeskA|9|Stan|Asahi Chemical Ind.|2029-03-06|SIMULATION|SIMULATION
+902|2|5461|DeskA|7|Charles|Sumitomo Trust and Banking|2022-01-06|SIMULATION|SIMULATION
+903|3|304|DeskB|2|Lucy|Mitsubishi Estate|2021-12-02|MATCHED|LIVE
+904|4|5077|DeskA|8|Will|Cosco Co.|2019-08-20|MATCHED|LIVE
+905|5|9881|DeskB|2|Eric|Rockwell Automation  Inc.|2022-12-07|DONE|LIVE
+906|6|3013|DeskB|0|Stan|Formosa Plastics Corporation|2020-09-14|MATCHED|LIVE
+907|7|9271|DeskA|9|Eric|Sumitomo Electric|2027-10-23|MATCHED|LIVE
+908|8|1642|DeskA|9|Lucy|China Life Insurance Company Limited|2025-10-23|SIMULATION|SIMULATION
+909|9|7534|DeskB|6|John|HSBC Holdings plc|2028-10-16|DONE|LIVE
+910|10|3147|DeskB|6|John|Total System Services|2023-03-15|MATCHED|LIVE
+911|11|741|DeskB|2|Sam|Reed Elsevier PLC|2022-06-14|SIMULATION|SIMULATION
+912|12|9244|DeskB|8|Sam|Mitsubishi Electric Co.|2022-05-28|MATCHED|LIVE
+913|13|6256|DeskB|0|Will|Toyota Industries|2025-03-30|MATCHED|LIVE
+914|14|7778|DeskB|8|Lucy|BHP Billiton Limited|2025-05-20|DONE|LIVE
+915|15|2172|DeskB|8|Lucy|Tyco International (New)|2021-06-27|SIMULATION|SIMULATION
+916|16|6382|DeskB|8|Stan|Mitsui Mining and Sm.|2023-05-29|MATCHED|LIVE
+917|17|1579|DeskB|2|Eric|Mitsubishi Tokyo Financial Group|2021-09-22|SIMULATION|SIMULATION
+918|18|7669|DeskA|3|Lucy|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2022-11-03|SIMULATION|SIMULATION
+919|19|7134|DeskA|1|Charles|Cathay Pacific Airways Ltd.|2028-11-23|SIMULATION|SIMULATION
+920|20|9769|DeskB|7|Luke|Unilever ord|2029-06-04|MATCHED|LIVE
+921|21|6162|DeskB|5|Sam|Asahi Chemical Ind.|2019-06-19|MATCHED|LIVE
+922|22|8123|DeskB|6|Lucy|Sumitomo Trust and Banking|2021-03-19|SIMULATION|SIMULATION
+923|23|4412|DeskB|3|Luke|Mitsubishi Estate|2029-03-05|MATCHED|LIVE
+924|24|4266|DeskB|1|Henry|Cosco Co.|2025-09-23|MATCHED|LIVE
+925|25|8519|DeskA|3|Charles|Rockwell Automation  Inc.|2027-10-09|SIMULATION|SIMULATION
+926|26|366|DeskB|8|John|Formosa Plastics Corporation|2028-12-26|SIMULATION|SIMULATION
+927|27|2813|DeskB|0|Henry|Sumitomo Electric|2019-08-31|DONE|LIVE
+928|28|9938|DeskA|6|Will|China Life Insurance Company Limited|2028-01-30|SIMULATION|SIMULATION
+929|29|7479|DeskB|1|Henry|HSBC Holdings plc|2027-08-05|DONE|LIVE
+930|30|3856|DeskA|4|Charles|Total System Services|2029-05-04|MATCHED|LIVE
+931|31|1703|DeskA|7|Lucy|Reed Elsevier PLC|2026-01-28|MATCHED|LIVE
+932|32|1526|DeskB|6|Luke|Mitsubishi Electric Co.|2019-09-30|SIMULATION|SIMULATION
+933|33|5093|DeskB|3|Lucy|Toyota Industries|2027-04-09|SIMULATION|SIMULATION
+934|34|5814|DeskA|9|Will|BHP Billiton Limited|2020-07-19|SIMULATION|SIMULATION
+935|35|456|DeskA|1|Henry|Tyco International (New)|2025-11-26|MATCHED|LIVE
+936|36|983|DeskB|3|Will|Mitsui Mining and Sm.|2021-08-03|DONE|LIVE
+937|37|6115|DeskA|3|Henry|Mitsubishi Tokyo Financial Group|2026-12-01|SIMULATION|SIMULATION
+938|38|6999|DeskA|3|John|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2028-12-21|MATCHED|LIVE
+939|39|1372|DeskB|6|John|Cathay Pacific Airways Ltd.|2025-07-22|DONE|LIVE
+940|40|4440|DeskB|4|Will|Unilever ord|2024-10-23|DONE|LIVE
+941|41|2427|DeskA|1|Lucy|Asahi Chemical Ind.|2025-10-11|SIMULATION|SIMULATION
+942|42|7361|DeskA|7|Luke|Sumitomo Trust and Banking|2025-12-23|DONE|LIVE
+943|43|6563|DeskA|1|Sam|Mitsubishi Estate|2022-07-25|MATCHED|LIVE
+944|44|7938|DeskA|8|Will|Cosco Co.|2025-02-11|MATCHED|LIVE
+945|45|5552|DeskA|3|Sam|Rockwell Automation  Inc.|2026-03-17|SIMULATION|SIMULATION
+946|46|1284|DeskB|8|John|Formosa Plastics Corporation|2028-05-27|DONE|LIVE
+947|47|5288|DeskA|0|Eric|Sumitomo Electric|2026-08-16|MATCHED|LIVE
+948|48|2881|DeskB|2|Eric|China Life Insurance Company Limited|2020-02-27|SIMULATION|SIMULATION
+949|49|7723|DeskB|0|Henry|HSBC Holdings plc|2023-06-25|DONE|LIVE
+950|50|8077|DeskB|1|Luke|Total System Services|2023-02-07|MATCHED|LIVE
+951|51|1567|DeskB|9|Will|Reed Elsevier PLC|2026-03-24|DONE|LIVE
+952|52|6334|DeskB|1|Henry|Mitsubishi Electric Co.|2023-08-09|MATCHED|LIVE
+953|53|3250|DeskA|9|Stan|Toyota Industries|2023-02-08|DONE|LIVE
+954|54|2545|DeskB|7|John|BHP Billiton Limited|2026-10-11|MATCHED|LIVE
+955|55|2623|DeskB|3|Sam|Tyco International (New)|2022-09-21|MATCHED|LIVE
+956|56|4891|DeskA|9|Henry|Mitsui Mining and Sm.|2023-03-21|SIMULATION|SIMULATION
+957|57|2876|DeskA|0|Charles|Mitsubishi Tokyo Financial Group|2025-03-06|MATCHED|LIVE
+958|58|2320|DeskB|9|Lucy|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2023-12-02|SIMULATION|SIMULATION
+959|59|8111|DeskB|8|Stan|Cathay Pacific Airways Ltd.|2029-06-08|DONE|LIVE
+960|60|8326|DeskA|5|Henry|Unilever ord|2021-07-19|MATCHED|LIVE
+961|61|9273|DeskA|7|Will|Asahi Chemical Ind.|2020-03-16|SIMULATION|SIMULATION
+962|62|8010|DeskA|4|Eric|Sumitomo Trust and Banking|2023-08-23|MATCHED|LIVE
+963|63|2105|DeskB|9|Henry|Mitsubishi Estate|2028-11-08|MATCHED|LIVE
+964|64|6054|DeskA|7|Charles|Cosco Co.|2023-03-30|SIMULATION|SIMULATION
+965|65|109|DeskA|1|Henry|Rockwell Automation  Inc.|2023-12-21|DONE|LIVE
+966|66|728|DeskB|7|Sam|Formosa Plastics Corporation|2029-05-26|DONE|LIVE
+967|67|9995|DeskB|6|Henry|Sumitomo Electric|2028-10-28|DONE|LIVE
+968|68|3432|DeskB|6|Will|China Life Insurance Company Limited|2020-02-08|SIMULATION|SIMULATION
+969|69|6147|DeskA|5|Stan|HSBC Holdings plc|2022-01-11|DONE|LIVE
+970|70|7654|DeskA|8|Stan|Total System Services|2020-06-04|MATCHED|LIVE
+971|71|5781|DeskB|9|John|Reed Elsevier PLC|2021-03-30|MATCHED|LIVE
+972|72|9022|DeskB|0|Sam|Mitsubishi Electric Co.|2021-05-14|DONE|LIVE
+973|73|7485|DeskA|1|Luke|Toyota Industries|2019-12-31|DONE|LIVE
+974|74|4225|DeskA|8|John|BHP Billiton Limited|2020-10-13|MATCHED|LIVE
+975|75|3118|DeskB|0|Henry|Tyco International (New)|2023-04-29|SIMULATION|SIMULATION
+976|76|3800|DeskB|2|Luke|Mitsui Mining and Sm.|2022-11-28|SIMULATION|SIMULATION
+977|77|6377|DeskB|2|Charles|Mitsubishi Tokyo Financial Group|2019-11-25|MATCHED|LIVE
+978|78|9371|DeskB|0|Eric|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2021-06-15|SIMULATION|SIMULATION
+979|79|8249|DeskA|4|Will|Cathay Pacific Airways Ltd.|2028-12-16|SIMULATION|SIMULATION
+980|80|2576|DeskB|6|Eric|Unilever ord|2020-08-10|SIMULATION|SIMULATION
+981|81|6180|DeskB|3|Stan|Asahi Chemical Ind.|2023-10-24|SIMULATION|SIMULATION
+982|82|5418|DeskB|8|Will|Sumitomo Trust and Banking|2025-05-03|DONE|LIVE
+983|83|6129|DeskA|8|Will|Mitsubishi Estate|2022-10-02|DONE|LIVE
+984|84|8927|DeskA|2|Eric|Cosco Co.|2020-09-07|SIMULATION|SIMULATION
+985|85|973|DeskB|7|Charles|Rockwell Automation  Inc.|2025-07-26|DONE|LIVE
+986|86|7194|DeskA|7|Will|Formosa Plastics Corporation|2024-09-17|DONE|LIVE
+987|87|4845|DeskB|5|Eric|Sumitomo Electric|2026-07-18|DONE|LIVE
+988|88|8694|DeskA|4|Henry|China Life Insurance Company Limited|2027-10-02|DONE|LIVE
+989|89|2551|DeskA|9|Charles|HSBC Holdings plc|2020-05-24|MATCHED|LIVE
+990|90|8873|DeskB|2|Luke|Total System Services|2024-09-04|SIMULATION|SIMULATION
+991|91|4516|DeskA|3|John|Reed Elsevier PLC|2024-11-23|DONE|LIVE
+992|92|352|DeskA|2|Eric|Mitsubishi Electric Co.|2029-03-18|SIMULATION|SIMULATION
+993|93|2681|DeskA|6|John|Toyota Industries|2024-02-20|MATCHED|LIVE
+994|94|2411|DeskA|4|Eric|BHP Billiton Limited|2025-02-10|DONE|LIVE
+995|95|521|DeskA|2|John|Tyco International (New)|2026-12-15|MATCHED|LIVE
+996|96|8035|DeskA|5|Lucy|Mitsui Mining and Sm.|2028-04-30|DONE|LIVE
+997|97|7605|DeskB|5|Sam|Mitsubishi Tokyo Financial Group|2021-11-05|DONE|LIVE
+998|98|4357|DeskA|3|Will|Vale R Doce-PNA (Companhia Vale do Rio Doce SA-CVRD) (ADR)|2026-12-08|DONE|LIVE
+999|99|5591|DeskA|1|Eric|Cathay Pacific Airways Ltd.|2026-04-16|DONE|LIVE
