@@ -14,7 +14,7 @@
 	<properties>
 		<activepivot.version>5.8.6-jdk8</activepivot.version>
 		<activeui.version>4.3.4</activeui.version>
-		<spring.boot.version>2.1.11.RELEASE</spring.boot.version>
+		<spring.boot.version>2.5.12</spring.boot.version>
 	</properties>
 
 	<dependencies>
